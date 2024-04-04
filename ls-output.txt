@@ -1,0 +1,1495 @@
+итого 267752
+-rwxr-xr-x 1 root root       51648 фев  8 06:46 [
+-rwxr-xr-x 1 root root          39 авг 15  2020 7z
+-rwxr-xr-x 1 root root          40 авг 15  2020 7za
+-rwxr-xr-x 1 root root          40 авг 15  2020 7zr
+-rwxr-xr-x 1 root root       35344 июн  5  2023 aa-enabled
+-rwxr-xr-x 1 root root       35344 июн  5  2023 aa-exec
+-rwxr-xr-x 1 root root       31248 июн  5  2023 aa-features-abi
+-rwxr-xr-x 1 root root       22912 янв 12  2022 aconnect
+-rwxr-xr-x 1 root root       19016 янв 25  2022 acpi_listen
+-rwxr-xr-x 1 root root       14478 окт 24 16:07 add-apt-repository
+-rwxr-xr-x 1 root root       14720 мар 22 15:25 addpart
+-rwxr-xr-x 1 root root      150376 мар 25  2022 airscan-discover
+-rwxr-xr-x 1 root root       43456 янв 12  2022 alsabat
+-rwxr-xr-x 1 root root       85328 янв 12  2022 alsaloop
+-rwxr-xr-x 1 root root       86312 янв 12  2022 alsamixer
+-rwxr-xr-x 1 root root       76160 янв 12  2022 alsatplg
+-rwxr-xr-x 1 root root       31576 янв 12  2022 alsaucm
+-rwxr-xr-x 1 root root       31112 янв 12  2022 amidi
+-rwxr-xr-x 1 root root       63952 янв 12  2022 amixer
+-rwxr-xr-x 1 root root         274 мар 23  2022 apg
+-rwxr-xr-x 1 root root       26784 мар 23  2022 apgbfm
+-rwxr-xr-x 1 root root       84400 янв 12  2022 aplay
+-rwxr-xr-x 1 root root       27016 янв 12  2022 aplaymidi
+-rwxr-xr-x 1 root root        2568 апр 14  2023 apport-bug
+-rwxr-xr-x 1 root root       13360 апр 14  2023 apport-cli
+lrwxrwxrwx 1 root root          10 апр 14  2023 apport-collect -> apport-bug
+-rwxr-xr-x 1 root root        2070 апр 14  2023 apport-unpack
+-rwxr-xr-x 1 root root       14648 мар 25  2022 appres
+-rwxr-xr-x 1 root root      121064 фев 24  2022 appstreamcli
+lrwxrwxrwx 1 root root           6 мар  6 10:51 apropos -> whatis
+-rwxr-xr-x 1 root root       18824 фев 13 18:39 apt
+lrwxrwxrwx 1 root root          18 окт 24 16:07 apt-add-repository -> add-apt-repository
+-rwxr-xr-x 1 root root       84448 фев 13 18:39 apt-cache
+-rwxr-xr-x 1 root root       27104 фев 13 18:39 apt-cdrom
+-rwxr-xr-x 1 root root       27024 фев 13 18:39 apt-config
+-rwxr-xr-x 1 root root        1039 мар 17  2022 aptdcon
+-rwxr-xr-x 1 root root       23008 фев 13 18:39 apt-extracttemplates
+-rwxr-xr-x 1 root root      236008 фев 13 18:39 apt-ftparchive
+-rwxr-xr-x 1 root root       51680 фев 13 18:39 apt-get
+-rwxr-xr-x 1 root root       28173 фев 13 18:39 apt-key
+-rwxr-xr-x 1 root root       51680 фев 13 18:39 apt-mark
+-rwxr-xr-x 1 root root       39320 фев 13 18:39 apt-sortpkgs
+-rwxr-xr-x 1 root root         273 мая 19  2016 apturl
+-rwxr-xr-x 1 root root        1544 мар 23  2022 apturl-gtk
+-rwxr-xr-x 1 root root       31240 фев  8 06:46 arch
+lrwxrwxrwx 1 root root           5 мар  6 10:51 arecord -> aplay
+-rwxr-xr-x 1 root root       31120 янв 12  2022 arecordmidi
+-rwxr-xr-x 1 root root       14656 мар 20  2023 arm2hpdl
+-rwxr-xr-x 1 root root       14368 июн 15  2021 ascii-xfr
+-rwxr-xr-x 1 root root       27008 янв 12  2022 aseqdump
+-rwxr-xr-x 1 root root       22968 янв 12  2022 aseqnet
+-rwxr-xr-x 1 root root      145904 мар 23  2022 aspell
+-rwxr-xr-x 1 root root        2044 мар 23  2022 aspell-import
+-rwxr-xr-x 1 root root       14640 мар 25  2022 atobm
+-rwxr-xr-x 1 root root       14640 мар 23  2022 attr
+-rwxr-xr-x 1 root root       31120 ноя 16 19:37 avahi-browse
+lrwxrwxrwx 1 root root          12 ноя 16 19:37 avahi-browse-domains -> avahi-browse
+-rwxr-xr-x 1 root root       27016 ноя 16 19:37 avahi-publish
+lrwxrwxrwx 1 root root          13 ноя 16 19:37 avahi-publish-address -> avahi-publish
+lrwxrwxrwx 1 root root          13 ноя 16 19:37 avahi-publish-service -> avahi-publish
+-rwxr-xr-x 1 root root       22920 ноя 16 19:37 avahi-resolve
+lrwxrwxrwx 1 root root          13 ноя 16 19:37 avahi-resolve-address -> avahi-resolve
+lrwxrwxrwx 1 root root          13 ноя 16 19:37 avahi-resolve-host-name -> avahi-resolve
+-rwxr-xr-x 1 root root       14728 ноя 16 19:37 avahi-set-host-name
+-rwxr-xr-x 1 root root       22792 ноя 29 14:31 avinfo
+lrwxrwxrwx 1 root root          21 мар  6 10:51 awk -> /etc/alternatives/awk
+-rwxr-xr-x 1 root root       92544 янв 12  2022 axfer
+-rwxr-xr-x 1 root root       51728 фев  8 06:46 b2sum
+-rwxr-xr-x 1 root root      244304 фев 14  2022 baobab
+-rwxr-xr-x 1 root root       35336 фев  8 06:46 base32
+-rwxr-xr-x 1 root root       35336 фев  8 06:46 base64
+-rwxr-xr-x 1 root root       35336 фев  8 06:46 basename
+-rwxr-xr-x 1 root root       47624 фев  8 06:46 basenc
+-rwxr-xr-x 1 root root     1396520 мар 14 14:31 bash
+-rwxr-xr-x 1 root root        6818 мар 14 14:31 bashbug
+-rwxr-xr-x 1 root root       93000 мар 23  2022 bc
+-rwxr-xr-x 1 root root       43272 мар 25  2022 bdftopcf
+-rwxr-xr-x 1 root root       14488 мар 25  2022 bdftruncate
+-rwxr-xr-x 1 root root      108864 мар 25  2022 bitmap
+-rwxr-xr-x 1 root root       39144 ноя 29 14:31 bluemoon
+-rwxr-xr-x 1 root root      281392 ноя 29 14:31 bluetoothctl
+-rwxr-xr-x 1 root root       35224 апр  8  2022 bluetooth-sendto
+-rwxr-xr-x 1 root root       14664 мар 25  2022 bmtoa
+-rwxr-xr-x 1 root root      125936 фев  7  2022 boltctl
+-rwxr-xr-x 1 root root       72184 ноя 21 23:57 bootctl
+-rwxr-xr-x 1 root root     1036328 июн 28  2022 brltty
+-rwxr-xr-x 1 root root      293608 июн 28  2022 brltty-ctb
+-rwxr-xr-x 1 root root      244344 июн 28  2022 brltty-trtxt
+-rwxr-xr-x 1 root root      277312 июн 28  2022 brltty-ttb
+-rwxr-xr-x 1 root root      121144 мая  9  2022 broadwayd
+lrwxrwxrwx 1 root root           8 авг 22  2022 browse -> xdg-open
+-rwxr-xr-x 1 root root       30952 ноя 29 14:31 btattach
+-rwxr-xr-x 1 root root      168960 ноя 29 14:31 btmgmt
+-rwxr-xr-x 1 root root      870712 ноя 29 14:31 btmon
+-rwxr-xr-x 1 root root       39296 мар 23  2022 bunzip2
+-rwxr-xr-x 1 root root       92664 ноя 21 23:57 busctl
+-rwxr-xr-x 1 root root     2193264 фев  5  2022 busybox
+-rwxr-xr-x 1 root root       72160 фев 25  2022 bwrap
+-rwxr-xr-x 1 root root       39296 мар 23  2022 bzcat
+lrwxrwxrwx 1 root root           6 мар  6 10:51 bzcmp -> bzdiff
+-rwxr-xr-x 1 root root        2225 мар 23  2022 bzdiff
+lrwxrwxrwx 1 root root           6 мар  6 10:51 bzegrep -> bzgrep
+-rwxr-xr-x 1 root root        4893 ноя 27  2021 bzexe
+lrwxrwxrwx 1 root root           6 мар  6 10:51 bzfgrep -> bzgrep
+-rwxr-xr-x 1 root root        3775 мар 23  2022 bzgrep
+-rwxr-xr-x 1 root root       39296 мар 23  2022 bzip2
+-rwxr-xr-x 1 root root       14640 мар 23  2022 bzip2recover
+lrwxrwxrwx 1 root root           6 мар  6 10:51 bzless -> bzmore
+-rwxr-xr-x 1 root root        1297 мар 23  2022 bzmore
+-rwxr-xr-x 1 root root       81752 дек  7  2018 c3pldrv
+-rwxr-xr-x 1 root root       27016 мар 24  2022 calibrate_ppa
+-rwxr-xr-x 1 root root       18656 янв 11  2023 canberra-gtk-play
+-rwxr-xr-x 1 root root       14648 фев 14  2023 cancel
+lrwxrwxrwx 1 root root           3 мая 16  2023 captoinfo -> tic
+-rwxr-xr-x 1 root root       35288 фев  8 06:46 cat
+-rwxr-xr-x 1 root root       35592 мар 17  2022 catman
+-rwxr-xr-x 1 root root         853 дек 11  2021 cautious-launcher
+-rwxr-xr-x 1 root root       26920 фев 22  2022 cd-create-profile
+-rwxr-xr-x 1 root root       26920 фев 22  2022 cd-fix-profile
+-rwxr-xr-x 1 root root       14632 фев 22  2022 cd-iccdump
+-rwxr-xr-x 1 root root       22824 фев 22  2022 cd-it8
+-rwxr-xr-x 1 root root       22832 авг 29  2021 chacl
+-rwxr-sr-x 1 root shadow     72184 фев  6 15:54 chage
+lrwxrwxrwx 1 root root          10 мар  6 10:51 chardet -> chardetect
+-rwxr-xr-x 1 root root         965 дек 30  2020 chardetect
+-rwxr-xr-x 1 root root       14656 июн  2  2022 chattr
+-rwxr-xr-x 1 root root       59912 фев  8 06:46 chcon
+-rwxr-xr-x 1 root root        2771 дек 28  2022 check-language-support
+-rwxr-xr-x 1 root root      272784 мар 23  2022 cheese
+-rwsr-xr-x 1 root root       72712 фев  6 15:54 chfn
+-rwxr-xr-x 1 root root       55816 фев  8 06:46 chgrp
+-rwxr-xr-x 1 root root       55816 фев  8 06:46 chmod
+-rwxr-xr-x 1 root root       22912 мар 22 15:25 choom
+-rwxr-xr-x 1 root root       59912 фев  8 06:46 chown
+-rwxr-xr-x 1 root root       27008 мар 22 15:25 chrt
+-rwsr-xr-x 1 root root       44808 фев  6 15:54 chsh
+-rwxr-xr-x 1 root root       14568 дек 16  2022 chvt
+-rwxr-xr-x 1 root root       23192 июн  1  2022 cifscreds
+-rwxr-xr-x 1 root root       93104 янв  6 00:23 cifsdd
+-rwxr-xr-x 1 root root       35160 ноя 29 14:31 ciptool
+-rwxr-xr-x 1 root root      149817 ноя 22  2021 ckbcomp
+-rwxr-xr-x 1 root root       35240 фев  8 06:46 cksum
+-rwxr-xr-x 1 root root       14656 мая 16  2023 clear
+-rwxr-xr-x 1 root root       14568 мар 14 14:31 clear_console
+-rwxr-xr-x 1 root root       43408 мар 23  2022 cmp
+-rwxr-xr-x 1 root root       27736 дек  7  2018 cngplp
+-rwxr-xr-x 1 root root       35560 июл 11  2022 cngplp2
+-rwxr-xr-x 1 root root       23160 дек  7  2018 cnjatool
+-rwxr-xr-x 1 root root       26864 июл 11  2022 cnjatool2
+-rwxr-xr-x 1 root root       14384 июл 11  2022 cnjbigufr2
+-rwxr-xr-x 1 root root       41328 июл 11  2022 cnpdfdrv
+-rwxr-xr-x 1 root root       68232 июл 11  2022 cnpkbidir
+-rwsr-xr-x 1 root root      236256 июл 11  2022 cnpkmoduleufr2r
+-rwxr-xr-x 1 root root       75824 июл 11  2022 cnrsdrvufr2
+-rwxr-xr-x 1 root root       47984 июл 11  2022 cnsetuputil2
+lrwxrwxrwx 1 root root          24 мар 27 17:02 code -> /usr/share/code/bin/code
+-rwxr-xr-x 1 root root       14488 дек 16  2022 codepage
+-rwxr-xr-x 1 root root       22920 мар 22 15:25 col
+lrwxrwxrwx 1 root root           8 фев 13  2022 cola -> git-cola
+-rwxr-xr-x 1 root root       14728 мар 22 15:25 colcrt
+-rwxr-xr-x 1 root root       59688 фев 22  2022 colormgr
+-rwxr-xr-x 1 root root       14728 мар 22 15:25 colrm
+-rwxr-xr-x 1 root root       35208 мар 22 15:25 column
+-rwxr-xr-x 1 root root       35344 фев  8 06:46 comm
+lrwxrwxrwx 1 root root          11 мар  6 10:51 compose -> run-mailcap
+-rwxr-xr-x 1 root root       15375 ноя 23 17:56 corelist
+-rwxr-xr-x 1 root root      141832 фев  8 06:46 cp
+-rwxr-xr-x 1 root root        8360 ноя 23 17:56 cpan
+-rwxr-xr-x 1 root root        8381 ноя 23 17:56 cpan5.34-x86_64-linux-gnu
+-rwxr-xr-x 1 root root      140928 авг 22  2021 cpio
+lrwxrwxrwx 1 root root           6 мар  6 10:51 cpp -> cpp-11
+lrwxrwxrwx 1 root root          23 мая 13  2023 cpp-11 -> x86_64-linux-gnu-cpp-11
+-rwxr-xr-x 1 root root        6963 фев 16 11:51 c_rehash
+-rwxr-sr-x 1 root crontab    39568 мар 23  2022 crontab
+-rwxr-xr-x 1 root root      109064 фев  8 06:46 csplit
+lrwxrwxrwx 1 root root           6 мар  6 10:51 ctstat -> lnstat
+-rwxr-xr-x 1 root root       63872 фев 14  2023 cupstestppd
+-rwxr-xr-x 1 root root       39432 фев  8 06:46 cut
+-rwxr-xr-x 1 root root       14480 фев 18  2022 cvt
+-rwxr-xr-x 1 root root      303512 апр  3  2023 cvtsudoers
+-rwxr-xr-x 1 root root      125688 мар 23  2022 dash
+-rwxr-xr-x 1 root root      104968 фев  8 06:46 date
+-rwxr-xr-x 1 root root       14632 окт 25  2022 dbus-cleanup-sockets
+-rwxr-xr-x 1 root root      232776 окт 25  2022 dbus-daemon
+-rwxr-xr-x 1 root root       26920 окт 25  2022 dbus-monitor
+-rwxr-xr-x 1 root root       14632 окт 25  2022 dbus-run-session
+-rwxr-xr-x 1 root root       26920 окт 25  2022 dbus-send
+-rwxr-xr-x 1 root root       14632 окт 25  2022 dbus-update-activation-environment
+-rwxr-xr-x 1 root root       14632 окт 25  2022 dbus-uuidgen
+-rwxr-xr-x 1 root root       27160 янв  6 00:23 dbwrap_tool
+-rwxr-xr-x 1 root root       26928 мая 17  2023 dbxtool
+-rwxr-xr-x 1 root root       47352 мар 23  2022 dc
+-rwxr-xr-x 1 root root       59608 фев  3  2022 dconf
+-rwxr-xr-x 1 root root       68120 фев  8 06:46 dd
+-rwxr-xr-x 1 root root       18752 мар 20  2023 ddstdecode
+-rwxr-xr-x 1 root root       14568 дек 16  2022 deallocvt
+-rwxr-xr-x 1 root root        2859 фев 20  2022 debconf
+-rwxr-xr-x 1 root root       11541 фев 20  2022 debconf-apt-progress
+-rwxr-xr-x 1 root root         608 фев 20  2022 debconf-communicate
+-rwxr-xr-x 1 root root        1719 фев 20  2022 debconf-copydb
+-rwxr-xr-x 1 root root         647 фев 20  2022 debconf-escape
+-rwxr-xr-x 1 root root        2995 фев 20  2022 debconf-set-selections
+-rwxr-xr-x 1 root root        1827 фев 20  2022 debconf-show
+-rwxr-xr-x 1 root root       23504 ноя 28 15:18 debian-distro-info
+-rwxr-xr-x 1 root root       21394 дек  8  2021 deb-systemd-helper
+-rwxr-xr-x 1 root root        6156 фев 16  2022 deb-systemd-invoke
+-rwxr-xr-x 1 root root     4708952 мар 19  2022 deepin-image-viewer
+-rwxr-xr-x 1 root root      330248 мая 20  2022 deja-dup
+-rwxr-xr-x 1 root root       14720 мар 22 15:25 delpart
+-rwxr-xr-x 1 root root       45896 фев 12 22:29 delv
+lrwxrwxrwx 1 root root          20 мар  6 10:51 desktop-file-edit -> desktop-file-install
+-rwxr-xr-x 1 root root       98752 мар 23  2022 desktop-file-install
+-rwxr-xr-x 1 root root       78528 мар 23  2022 desktop-file-validate
+-rwxr-xr-x 1 root root      187672 мар 24  2022 devdump
+-rwxr-xr-x 1 root root       85072 фев  8 06:46 df
+-rwxr-xr-x 1 root root      112944 мая 17  2023 dfu-tool
+-rwxr-xr-x 1 root root        4414 ноя 11  2021 dh_bash-completion
+-rwxr-xr-x 1 root root        9444 фев 27  2019 dh_installxmlcatalogs
+-rwxr-xr-x 1 root root        1541 мая 16  2020 dh_perl_openssl
+-rwxr-xr-x 1 root root      133680 мар 23  2022 diff
+-rwxr-xr-x 1 root root       55824 мар 23  2022 diff3
+-rwxr-xr-x 1 root root      150352 фев 12 22:29 dig
+-rwxr-xr-x 1 root root      138216 фев  8 06:46 dir
+-rwxr-xr-x 1 root root       39440 фев  8 06:46 dircolors
+-rwxr-xr-x 1 root root      443408 июл  4  2022 dirmngr
+-rwxr-xr-x 1 root root       56240 июл  4  2022 dirmngr-client
+-rwxr-xr-x 1 root root       31112 фев  8 06:46 dirname
+-rwxr-xr-x 1 root root       17143 ноя 26  2006 dirsplit
+lrwxrwxrwx 1 root root          18 ноя 28 15:18 distro-info -> ubuntu-distro-info
+-rwxr-xr-x 1 root root       72304 мар 22 15:25 dmesg
+lrwxrwxrwx 1 root root           8 мар  6 10:51 dnsdomainname -> hostname
+lrwxrwxrwx 1 root root           8 мар  6 10:51 domainname -> hostname
+-rwxr-xr-x 1 root root       10675 фев 13 16:47 do-release-upgrade
+-rwxr-xr-x 1 root root      318144 фев 23 17:53 dpkg
+-rwxr-xr-x 1 root root      137720 фев 23 17:53 dpkg-deb
+-rwxr-xr-x 1 root root      121336 фев 23 17:53 dpkg-divert
+-rwxr-xr-x 1 root root       21209 фев 23 17:53 dpkg-maintscript-helper
+-rwxr-xr-x 1 root root      141848 фев 23 17:53 dpkg-query
+-rwxr-xr-x 1 root root        4189 фев 23 17:53 dpkg-realpath
+-rwxr-xr-x 1 root root      100872 фев 23 17:53 dpkg-split
+-rwxr-xr-x 1 root root       47368 фев 23 17:53 dpkg-statoverride
+-rwxr-xr-x 1 root root       43424 фев 23 17:53 dpkg-trigger
+lrwxrwxrwx 1 root root          29 мая 15  2023 driverless -> ../lib/cups/driver/driverless
+lrwxrwxrwx 1 root root          33 мая 15  2023 driverless-fax -> ../lib/cups/driver/driverless-fax
+-rwxr-xr-x 1 root root      150024 фев  8 06:46 du
+-rwxr-xr-x 1 root root      162520 дек 16  2022 dumpkeys
+-rwxr-xr-x 1 root root       14640 янв  6 00:23 dumpmscat
+-rwxr-xr-x 1 root root        5338 мар 17  2022 duplicity
+-rwxr-xr-x 1 root root        1007 дек 11 22:25 dvipdf
+-rwxr-xr-x 1 root root       35128 фев  8 06:46 echo
+-rwxr-xr-x 1 root root       55800 фев 13  2022 ed
+lrwxrwxrwx 1 root root          11 мар  6 10:51 edit -> run-mailcap
+lrwxrwxrwx 1 root root          24 мар  6 10:51 editor -> /etc/alternatives/editor
+-rwxr-xr-x 1 root root       74432 мар 25  2022 editres
+-rwxr-xr-x 1 root root       22680 авг  3  2021 efibootdump
+-rwxr-xr-x 1 root root       44312 авг  3  2021 efibootmgr
+-rwxr-xr-x 1 root root          28 мар 23  2022 egrep
+-rwxr-xr-x 1 root root       43240 мар 22 15:25 eject
+-rwxr-xr-x 1 root root       41819 ноя 23 17:56 enc2xs
+-rwxr-xr-x 1 root root        3078 ноя 23 17:56 encguess
+-rwxr-xr-x 1 root root       26920 фев  7  2022 enchant-2
+-rwxr-xr-x 1 root root       18728 фев  7  2022 enchant-lsmod-2
+-rwxr-xr-x 1 root root       43976 фев  8 06:46 env
+-rwxr-xr-x 1 root root       35200 мар 25  2022 envsubst
+-rwxr-xr-x 1 root root       18808 мар 21  2022 eog
+-rwxr-xr-x 1 root root         639 дек 11 22:25 eps2eps
+-rwxr-xr-x 1 root root      192968 мар 23  2022 eqn
+-rwxr-xr-x 1 root root       14496 мар 24  2022 esc-m
+-rwxr-xr-x 1 root root       26784 июн 28  2022 eutp
+-rwxr-xr-x 1 root root       18744 сен 30  2020 evemu-describe
+-rwxr-xr-x 1 root root       14648 сен 30  2020 evemu-device
+-rwxr-xr-x 1 root root       14824 сен 30  2020 evemu-event
+-rwxr-xr-x 1 root root       14648 сен 30  2020 evemu-play
+-rwxr-xr-x 1 root root       18744 сен 30  2020 evemu-record
+-rwxr-xr-x 1 root root      532200 окт 19 22:01 evince
+-rwxr-xr-x 1 root root       72208 окт 19 22:01 evince-previewer
+-rwxr-xr-x 1 root root       18824 окт 19 22:01 evince-thumbnailer
+-rwxr-xr-x 1 root root       59624 авг 22  2019 evtest
+lrwxrwxrwx 1 root root          20 мар  6 10:51 ex -> /etc/alternatives/ex
+-rwxr-xr-x 1 root root       35360 фев  8 06:46 expand
+-rwxr-sr-x 1 root shadow     23136 фев  6 15:54 expiry
+-rwxr-xr-x 1 root root      104872 фев  8 06:46 expr
+lrwxrwxrwx 1 root root          25 мар 28 10:14 express -> /etc/alternatives/express
+-rwxr-xr-x 1 root root       72200 фев  8 06:46 factor
+-rwxr-xr-x 1 root root       23136 фев  6 15:54 faillog
+-rwxr-xr-x 1 root root       22912 мар 22 15:25 fallocate
+-rwxr-xr-x 1 root root       26936 фев  8 06:46 false
+-rwxr-xr-x 1 root root       22760 мар 23  2022 fc-cache
+-rwxr-xr-x 1 root root       18664 мар 23  2022 fc-cat
+-rwxr-xr-x 1 root root       14568 мар 23  2022 fc-conflist
+-rwxr-xr-x 1 root root       14568 мар 23  2022 fc-list
+-rwxr-xr-x 1 root root       14568 мар 23  2022 fc-match
+-rwxr-xr-x 1 root root       14568 мар 23  2022 fc-pattern
+-rwxr-xr-x 1 root root       14568 мар 23  2022 fc-query
+-rwxr-xr-x 1 root root       14568 мар 23  2022 fc-scan
+-rwxr-xr-x 1 root root       14568 мар 23  2022 fc-validate
+-rwxr-xr-x 1 root root      301544 мая 19  2022 ffmpeg
+-rwxr-xr-x 1 root root      149984 мая 19  2022 ffplay
+-rwxr-xr-x 1 root root      178832 мая 19  2022 ffprobe
+-rwxr-xr-x 1 root root       14568 дек 16  2022 fgconsole
+-rwxr-xr-x 1 root root          28 мар 23  2022 fgrep
+-rwxr-xr-x 1 root root       27200 сен 11  2023 file
+-rwxr-xr-x 1 root root       26840 фев 10  2022 file2brl
+-rwxr-xr-x 1 root root      541544 мар 21  2022 file-roller
+-rwxr-xr-x 1 root root       22960 мар 22 15:25 fincore
+-rwxr-xr-x 1 root root      282088 мар 23  2022 find
+-rwxr-xr-x 1 root root       65136 мар 22 15:25 findmnt
+-rwxr-xr-x 1 root root        2377 фев 22  2022 firefox
+-rwxr-xr-x 1 root root     1307520 мар 14  2022 flatpak
+-rwxr-xr-x 1 root root       23024 мар 22 15:25 flock
+-rwxr-xr-x 1 root root       39432 фев  8 06:46 fmt
+-rwxr-xr-x 1 root root       35336 фев  8 06:46 fold
+-rwxr-xr-x 1 root root       39080 мар 25  2022 fonttosfnt
+-rwxr-xr-x 1 root root       31704 мар 20  2023 foo2ddst
+-rwxr-xr-x 1 root root       17268 мар 20  2023 foo2ddst-wrapper
+-rwxr-xr-x 1 root root       31736 мар 20  2023 foo2hbpl2
+-rwxr-xr-x 1 root root       18343 мар 20  2023 foo2hbpl2-wrapper
+-rwxr-xr-x 1 root root       44024 мар 20  2023 foo2hiperc
+-rwxr-xr-x 1 root root       18541 мар 20  2023 foo2hiperc-wrapper
+-rwxr-xr-x 1 root root       39896 мар 20  2023 foo2hp
+-rwxr-xr-x 1 root root       19204 мар 20  2023 foo2hp2600-wrapper
+-rwxr-xr-x 1 root root       43976 мар 20  2023 foo2lava
+-rwxr-xr-x 1 root root       20083 мар 20  2023 foo2lava-wrapper
+-rwxr-xr-x 1 root root       39824 мар 20  2023 foo2oak
+-rwxr-xr-x 1 root root       17871 мар 20  2023 foo2oak-wrapper
+-rwxr-xr-x 1 root root       44064 мар 20  2023 foo2qpdl
+-rwxr-xr-x 1 root root       19514 мар 20  2023 foo2qpdl-wrapper
+-rwxr-xr-x 1 root root       31672 мар 20  2023 foo2slx
+-rwxr-xr-x 1 root root       17603 мар 20  2023 foo2slx-wrapper
+-rwxr-xr-x 1 root root       31744 мар 20  2023 foo2xqx
+-rwxr-xr-x 1 root root       17572 мар 20  2023 foo2xqx-wrapper
+-rwxr-xr-x 1 root root       44064 мар 20  2023 foo2zjs
+lrwxrwxrwx 1 root root           5 мар 20  2023 foo2zjs-icc2ps -> psicc
+-rwxr-xr-x 1 root root        2997 мар 20  2023 foo2zjs-pstops
+-rwxr-xr-x 1 root root       25952 мар 20  2023 foo2zjs-wrapper
+lrwxrwxrwx 1 root root          31 мая 15  2023 foomatic-rip -> ../lib/cups/filter/foomatic-rip
+-rwxr-xr-x 1 root root       88448 июл 16  2022 fprintd-delete
+-rwxr-xr-x 1 root root       93040 июл 16  2022 fprintd-enroll
+-rwxr-xr-x 1 root root       80256 июл 16  2022 fprintd-list
+-rwxr-xr-x 1 root root       88448 июл 16  2022 fprintd-verify
+-rwxr-xr-x 1 root root       26864 окт 31 14:36 free
+lrwxrwxrwx 1 root root          21 мар  6 10:51 ftp -> /etc/alternatives/ftp
+-rwxr-xr-x 1 root root       22832 фев  1 18:52 funzip
+-rwxr-xr-x 1 root root       40256 мар 24  2022 fuser
+lrwxrwxrwx 1 root root          11 мар  6 10:51 fusermount -> fusermount3
+-rwsr-xr-x 1 root root       35200 мар 23  2022 fusermount3
+lrwxrwxrwx 1 root root          26 мар  6 10:51 futurize -> /etc/alternatives/futurize
+lrwxrwxrwx 1 root root           8 мая 17  2023 fwupdagent -> fwupdmgr
+-rwxr-xr-x 1 root root       84272 мая 17  2023 fwupdate
+-rwxr-xr-x 1 root root      194864 мая 17  2023 fwupdmgr
+-rwxr-xr-x 1 root root      404400 мая 17  2023 fwupdtool
+-rwxr-xr-x 1 root root      158360 мар 23  2022 gamemoded
+-rwxr-xr-x 1 root root       14648 мар 27  2022 gamma4scanimage
+-rwxr-xr-x 1 root root       22920 июн  8  2023 gapplication
+-rwxr-xr-x 1 root root      105936 ноя 29 14:31 gatttool
+-rwxr-xr-x 1 root root      321936 мар 21  2022 gcalccmd
+-rwxr-xr-x 1 root root       67816 июн 22  2021 gconf-merge-tree
+lrwxrwxrwx 1 root root          11 июн 22  2021 gconftool -> gconftool-2
+-rwxr-xr-x 1 root root       71912 июн 22  2021 gconftool-2
+-rwxr-xr-x 1 root root        3477 мая  3  2022 gcore
+-rwxr-xr-x 1 root root       14712 мар 23  2022 gcr-viewer
+-rwxr-xr-x 1 root root    10280680 мая  3  2022 gdb
+-rwxr-xr-x 1 root root        4627 мая  3  2022 gdb-add-index
+-rwxr-xr-x 1 root root         126 мая  3  2022 gdbtui
+-rwxr-xr-x 1 root root       51592 июн  8  2023 gdbus
+-rwxr-xr-x 1 root root        9228 мая  1  2022 gdialog
+-rwxr-xr-x 1 root root       14672 окт 21  2022 gdk-pixbuf-csource
+-rwxr-xr-x 1 root root       14656 окт 21  2022 gdk-pixbuf-pixdata
+-rwxr-xr-x 1 root root       18832 окт 21  2022 gdk-pixbuf-thumbnailer
+-rwxr-xr-x 1 root root       23328 янв 30 20:28 gdmflexiserver
+-rwxr-xr-x 1 root root       18848 янв 30 20:28 gdm-screenshot
+-rwxr-xr-x 1 root root       14640 мар  2  2022 gedit
+-rwxr-xr-x 1 root root      661400 мар 24  2022 genisoimage
+lrwxrwxrwx 1 root root           3 мар  6 10:51 geqn -> eqn
+lrwxrwxrwx 1 root root          11 мар  6 10:51 GET -> lwp-request
+-rwxr-xr-x 1 root root       18744 июн  1  2022 getcifsacl
+-rwxr-xr-x 1 root root       35112 янв  2 16:22 getconf
+-rwxr-xr-x 1 root root        6210 мар 24  2022 geteltorito
+-rwxr-xr-x 1 root root       39576 янв  2 16:22 getent
+-rwxr-xr-x 1 root root       31552 авг 29  2021 getfacl
+-rwxr-xr-x 1 root root       23304 мар 23  2022 getfattr
+-rwxr-xr-x 1 root root       14568 дек 16  2022 getkeycodes
+-rwxr-xr-x 1 root root       22912 мар 22 15:25 getopt
+-rwxr-xr-x 1 root root       35200 мар 25  2022 gettext
+-rwxr-xr-x 1 root root        5188 мар 25  2022 gettext.sh
+lrwxrwxrwx 1 root root           2 дек 11 22:25 ghostscript -> gs
+lrwxrwxrwx 1 root root          12 мар  6 10:51 ginstall-info -> install-info
+-rwxr-xr-x 1 root root       92568 июн  8  2023 gio
+lrwxrwxrwx 1 root root          49 июн  8  2023 gio-querymodules -> ../lib/x86_64-linux-gnu/glib-2.0/gio-querymodules
+-rwxr-xr-x 1 root root       18752 мар 20  2023 gipddecode
+-rwxr-xr-x 1 root root     3702168 июл  7  2023 git
+-rwxr-xr-x 1 root root        1461 фев 13  2022 git-cola
+-rwxr-xr-x 1 root root        1449 фев 13  2022 git-cola-sequence-editor
+-rwxr-xr-x 1 root root        1466 фев 13  2022 git-dag
+-rwxr-xr-x 1 root root      756376 фев 13  2022 gitg
+-rwxr-xr-x 1 root root      401052 июл  7  2023 gitk
+lrwxrwxrwx 1 root root           3 июл  7  2023 git-receive-pack -> git
+-rwxr-xr-x 1 root root      565840 июл  7  2023 git-shell
+lrwxrwxrwx 1 root root           3 июл  7  2023 git-upload-archive -> git
+lrwxrwxrwx 1 root root           3 июл  7  2023 git-upload-pack -> git
+lrwxrwxrwx 1 root root          11 мая 19  2023 gjs -> gjs-console
+-rwxr-xr-x 1 root root       23264 мая 19  2023 gjs-console
+-rwxr-xr-x 1 root root       14648 янв  9  2022 gkbd-keyboard-display
+lrwxrwxrwx 1 root root          53 июн  8  2023 glib-compile-schemas -> ../lib/x86_64-linux-gnu/glib-2.0/glib-compile-schemas
+-rwxr-xr-x 1 root root      936792 мар 21  2022 gnome-calculator
+-rwxr-xr-x 1 root root      660040 фев 15  2022 gnome-calendar
+lrwxrwxrwx 1 root root          50 мар  6 10:51 gnome-characters -> ../share/org.gnome.Characters/org.gnome.Characters
+-rwxr-xr-x 1 root root     4685352 дек 11 08:05 gnome-control-center
+-rwxr-xr-x 1 root root       22920 мар 19  2022 gnome-disk-image-mounter
+-rwxr-xr-x 1 root root      744952 мар 19  2022 gnome-disks
+-rwxr-xr-x 1 root root       63952 июн 14  2023 gnome-extensions
+-rwxr-xr-x 1 root root       97128 фев 14  2022 gnome-font-viewer
+lrwxrwxrwx 1 root root           4 мар  6 10:51 gnome-help -> yelp
+lrwxrwxrwx 1 root root          15 июн 21  2022 gnome-keyring -> gnome-keyring-3
+-rwxr-xr-x 1 root root       23080 июн 21  2022 gnome-keyring-3
+-rwxr-xr-x 1 root root     1017128 июн 21  2022 gnome-keyring-daemon
+-rwxr-xr-x 1 root root        1444 дек 28  2022 gnome-language-selector
+-rwxr-xr-x 1 root root      195456 мар 28  2022 gnome-logs
+-rwxr-xr-x 1 root root       67872 мар 23  2022 gnome-power-statistics
+-rwxr-xr-x 1 root root         803 апр  7  2022 gnome-session
+-rwxr-xr-x 1 root root          54 мар 21  2022 gnome-session-custom-session
+-rwxr-xr-x 1 root root       22848 апр  7  2022 gnome-session-inhibit
+-rwxr-xr-x 1 root root       67848 апр  7  2022 gnome-session-properties
+-rwxr-xr-x 1 root root       14960 апр  7  2022 gnome-session-quit
+-rwxr-xr-x 1 root root       27264 июн 14  2023 gnome-shell
+-rwxr-xr-x 1 root root        1706 июн 14  2023 gnome-shell-extension-tool
+-rwxr-xr-x 1 root root       10609 июн 14  2023 gnome-shell-perf-tool
+-rwxr-xr-x 1 root root     1195816 июл 20  2022 gnome-software
+-rwxr-xr-x 1 root root      358768 мар 21  2022 gnome-system-monitor
+-rwxr-xr-x 1 root root        3400 мар 28  2022 gnome-terminal
+-rwxr-xr-x 1 root root       77328 мар 28  2022 gnome-terminal.real
+-rwxr-xr-x 1 root root        2718 мар 28  2022 gnome-terminal.wrapper
+lrwxrwxrwx 1 root root          35 мар  6 10:51 gnome-text-editor -> /etc/alternatives/gnome-text-editor
+-rwxr-xr-x 1 root root       26936 фев 14  2022 gnome-thumbnail-font
+-rwxr-xr-x 1 root root      416632 мар 24  2022 gnome-todo
+lrwxrwxrwx 1 root root          35 мар 27 16:15 gnome-www-browser -> /etc/alternatives/gnome-www-browser
+-rwsr-xr-x 1 root root       72072 фев  6 15:54 gpasswd
+-rwxr-xr-x 1 root root     1050624 июл  4  2022 gpg
+-rwxr-xr-x 1 root root      320472 июл  4  2022 gpg-agent
+-rwxr-xr-x 1 root root      508400 июл  4  2022 gpgcompose
+-rwxr-xr-x 1 root root      129776 июл  4  2022 gpgconf
+-rwxr-xr-x 1 root root       84984 июл  4  2022 gpg-connect-agent
+-rwxr-xr-x 1 root root       35200 июл  4  2022 gpgparsemail
+-rwxr-xr-x 1 root root      428952 июл  4  2022 gpgsm
+-rwxr-xr-x 1 root root       27184 июл  4  2022 gpgsplit
+-rwxr-xr-x 1 root root       64912 июл  4  2022 gpgtar
+-rwxr-xr-x 1 root root      277544 июл  4  2022 gpgv
+-rwxr-xr-x 1 root root      117816 июл  4  2022 gpg-wks-server
+-rwxr-xr-x 1 root root        3516 июл  4  2022 gpg-zip
+lrwxrwxrwx 1 root root           3 мар  6 10:51 gpic -> pic
+-rwxr-xr-x 1 root root       80712 сен 15  2023 gpu-manager
+-rwxr-xr-x 1 root root       27016 июл  5  2023 grdctl
+-rwxr-xr-x 1 root root      182728 мар 23  2022 grep
+-rwxr-xr-x 1 root root       22840 июн  8  2023 gresource
+-rwxr-xr-x 1 root root       96768 мар 23  2022 groff
+-rwxr-xr-x 1 root root        2776 мар 23  2022 grog
+-rwxr-xr-x 1 root root      166456 мар 23  2022 grops
+-rwxr-xr-x 1 root root      121368 мар 23  2022 grotty
+-rwxr-xr-x 1 root root       35336 фев  8 06:46 groups
+-rwxr-xr-x 1 root root      386000 дек 19  2022 grub-editenv
+-rwxr-xr-x 1 root root      836048 дек 19  2022 grub-file
+-rwxr-xr-x 1 root root      960432 дек 19  2022 grub-fstest
+-rwxr-xr-x 1 root root      253808 дек 19  2022 grub-glue-efi
+-rwxr-xr-x 1 root root        1681 дек 19  2022 grub-kbdcomp
+-rwxr-xr-x 1 root root      233600 дек 19  2022 grub-menulst2cfg
+-rwxr-xr-x 1 root root      278960 дек 19  2022 grub-mkfont
+-rwxr-xr-x 1 root root      369712 дек 19  2022 grub-mkimage
+-rwxr-xr-x 1 root root      258224 дек 19  2022 grub-mklayout
+-rwxr-xr-x 1 root root      427680 дек 19  2022 grub-mknetdir
+-rwxr-xr-x 1 root root      262352 дек 19  2022 grub-mkpasswd-pbkdf2
+-rwxr-xr-x 1 root root      253520 дек 19  2022 grub-mkrelpath
+-rwxr-xr-x 1 root root     1022432 дек 19  2022 grub-mkrescue
+-rwxr-xr-x 1 root root      505808 дек 19  2022 grub-mkstandalone
+-rwxr-xr-x 1 root root      779104 дек 19  2022 grub-mount
+lrwxrwxrwx 1 root root          34 дек 19  2022 grub-ntldr-img -> ../lib/grub/i386-pc/grub-ntldr-img
+-rwxr-xr-x 1 root root      848720 дек 19  2022 grub-render-label
+-rwxr-xr-x 1 root root      282320 дек 19  2022 grub-script-check
+-rwxr-xr-x 1 root root      800096 дек 19  2022 grub-syslinux2cfg
+-rwxr-xr-x 1 root root       14488 дек 11 22:25 gs
+-rwxr-xr-x 1 root root         350 дек 11 22:25 gsbj
+-rwxr-xr-x 1 root root         352 дек 11 22:25 gsdj
+-rwxr-xr-x 1 root root         352 дек 11 22:25 gsdj500
+-rwxr-xr-x 1 root root       31032 июн  8  2023 gsettings
+-rwxr-xr-x 1 root root       26776 июн 22  2021 gsettings-data-convert
+-rwxr-xr-x 1 root root       41811 июн 22  2021 gsettings-schema-convert
+-rwxr-xr-x 1 root root         353 дек 11 22:25 gslj
+-rwxr-xr-x 1 root root         350 дек 11 22:25 gslp
+-rwxr-xr-x 1 root root         277 дек 11 22:25 gsnd
+-rwxr-xr-x 1 root root       22936 авг  1  2023 gst-device-monitor-1.0
+-rwxr-xr-x 1 root root       35144 авг  1  2023 gst-discoverer-1.0
+-rwxr-xr-x 1 root root       63896 июн 30  2022 gst-inspect-1.0
+-rwxr-xr-x 1 root root       39248 июн 30  2022 gst-launch-1.0
+-rwxr-xr-x 1 root root       51608 авг  1  2023 gst-play-1.0
+lrwxrwxrwx 1 root root          41 мар  6 10:51 gstreamer-codec-install -> /etc/alternatives/gstreamer-codec-install
+-rwxr-xr-x 1 root root       35208 июн 30  2022 gst-stats-1.0
+-rwxr-xr-x 1 root root       14656 июн 30  2022 gst-tester-1.0
+-rwxr-xr-x 1 root root       18752 июн 30  2022 gst-typefind-1.0
+lrwxrwxrwx 1 root root           3 мар  6 10:51 gtbl -> tbl
+-rwxr-xr-x 1 root root       18752 янв 29 15:43 gtf
+-rwxr-xr-x 1 root root       55736 июл 17  2023 gtk4-builder-tool
+-rwxr-xr-x 1 root root     8379976 июл 17  2023 gtk4-encode-symbolic-svg
+-rwxr-xr-x 1 root root       18904 июл 17  2023 gtk4-launch
+-rwxr-xr-x 1 root root       14648 июл 17  2023 gtk4-query-settings
+-rwxr-xr-x 1 root root       39656 июл 17  2023 gtk4-update-icon-cache
+-rwxr-xr-x 1 root root       35568 мая  9  2022 gtk-builder-tool
+-rwxr-xr-x 1 root root       18856 мая  9  2022 gtk-encode-symbolic-svg
+-rwxr-xr-x 1 root root       18904 мая  9  2022 gtk-launch
+-rwxr-xr-x 1 root root       14648 мая  9  2022 gtk-query-settings
+-rwxr-xr-x 1 root root       39496 мая  9  2022 gtk-update-icon-cache
+-rwxr-xr-x 2 root root        2346 сен  5  2022 gunzip
+-rwxr-xr-x 1 root root        6447 сен  5  2022 gzexe
+-rwxr-xr-x 1 root root       93424 сен  5  2022 gzip
+-rwxr-xr-x 1 root root       29227 ноя 23 17:56 h2ph
+-rwxr-xr-x 1 root root       60934 ноя 23 17:56 h2xs
+-rwxr-xr-x 1 root root       35256 мар 22 15:25 hardlink
+-rwxr-xr-x 1 root root       26944 мар 20  2023 hbpldecode
+-rwxr-xr-x 1 root root       57656 ноя 29 14:31 hciattach
+-rwxr-xr-x 1 root root      167960 ноя 29 14:31 hciconfig
+-rwxr-xr-x 1 root root      163592 ноя 29 14:31 hcitool
+lrwxrwxrwx 1 root root           7 мар 22 15:25 hd -> hexdump
+-rwxr-xr-x 1 root root       43528 фев  8 06:46 head
+lrwxrwxrwx 1 root root          11 мар  6 10:51 HEAD -> lwp-request
+-rwxr-xr-x 1 root root        2514 янв  4  2022 helpztags
+-rwxr-xr-x 1 root root       18664 ноя 29 14:31 hex2hcd
+-rwxr-xr-x 1 root root       51600 мар 22 15:25 hexdump
+-rwxr-xr-x 1 root root       18752 мар 20  2023 hipercdecode
+-rwxr-xr-x 1 root root      121672 фев 12 22:29 host
+-rwxr-xr-x 1 root root       31240 фев  8 06:46 hostid
+-rwxr-xr-x 1 root root       22760 мар 23  2022 hostname
+-rwxr-xr-x 1 root root       31104 ноя 21 23:57 hostnamectl
+lrwxrwxrwx 1 root root          23 мар  6 10:51 hp-align -> ../share/hplip/align.py
+lrwxrwxrwx 1 root root          23 мар  6 10:51 hp-check -> ../share/hplip/check.py
+lrwxrwxrwx 1 root root          23 мар  6 10:51 hp-clean -> ../share/hplip/clean.py
+lrwxrwxrwx 1 root root          26 мар  6 10:51 hp-colorcal -> ../share/hplip/colorcal.py
+lrwxrwxrwx 1 root root          36 мар  6 10:51 hp-config_usb_printer -> ../share/hplip/config_usb_printer.py
+lrwxrwxrwx 1 root root          24 мар  6 10:51 hp-doctor -> ../share/hplip/doctor.py
+lrwxrwxrwx 1 root root          26 мар  6 10:51 hp-firmware -> ../share/hplip/firmware.py
+lrwxrwxrwx 1 root root          22 мар  6 10:51 hp-info -> ../share/hplip/info.py
+lrwxrwxrwx 1 root root          24 мар  6 10:51 hp-levels -> ../share/hplip/levels.py
+lrwxrwxrwx 1 root root          28 мар  6 10:51 hp-logcapture -> ../share/hplip/logcapture.py
+lrwxrwxrwx 1 root root          25 мар  6 10:51 hp-makeuri -> ../share/hplip/makeuri.py
+lrwxrwxrwx 1 root root          27 мар  6 10:51 hp-pkservice -> ../share/hplip/pkservice.py
+lrwxrwxrwx 1 root root          24 мар  6 10:51 hp-plugin -> ../share/hplip/plugin.py
+-rwxr-xr-x 1 root root         719 янв 22  2022 hp-plugin-ubuntu
+lrwxrwxrwx 1 root root          23 мар  6 10:51 hp-probe -> ../share/hplip/probe.py
+lrwxrwxrwx 1 root root          23 мар  6 10:51 hp-query -> ../share/hplip/query.py
+lrwxrwxrwx 1 root root          22 мар  6 10:51 hp-scan -> ../share/hplip/scan.py
+lrwxrwxrwx 1 root root          23 мар  6 10:51 hp-setup -> ../share/hplip/setup.py
+lrwxrwxrwx 1 root root          26 мар  6 10:51 hp-testpage -> ../share/hplip/testpage.py
+lrwxrwxrwx 1 root root          26 мар  6 10:51 hp-timedate -> ../share/hplip/timedate.py
+-rwxr-xr-x 1 root root       10830 янв 26 17:10 hwe-support-status
+lrwxrwxrwx 1 root root           7 мар 22 15:25 i386 -> setarch
+-rwxr-xr-x 1 root root       39288 апр 10  2022 ibus
+-rwxr-xr-x 1 root root      199088 апр 10  2022 ibus-daemon
+-rwxr-xr-x 1 root root        1182 апр 10  2022 ibus-setup
+-rwxr-xr-x 1 root root        1141 фев  2  2022 ibus-table-createdb
+-rwxr-xr-x 1 root root       43440 мар 25  2022 iceauth
+-rwxr-xr-x 1 root root       51648 мар 25  2022 ico
+-rwxr-xr-x 1 root root       68000 янв  2 16:22 iconv
+-rwxr-xr-x 1 root root       39432 фев  8 06:46 id
+-rwxr-xr-x 1 root root       27008 янв 12  2022 iecset
+-rwxr-xr-x 1 root root       35360 мар 25  2022 ijs_pxljr
+-rwxr-xr-x 1 root root       26776 мар 22  2020 ilur
+-rwxr-xr-x 1 root root       11297 янв 17  2022 im-config
+-rwxr-xr-x 1 root root        1798 дек 18  2020 im-launch
+-rwxr-xr-x 1 root root      308984 фев  6  2022 info
+lrwxrwxrwx 1 root root          29 мар  6 10:51 infobrowser -> /etc/alternatives/infobrowser
+-rwxr-xr-x 1 root root       63872 мая 16  2023 infocmp
+lrwxrwxrwx 1 root root           3 мая 16  2023 infotocap -> tic
+-rwxr-xr-x 1 root root       34560 мар 24  2022 inputattach
+-rwxr-xr-x 1 root root      145944 фев  8 06:46 install
+-rwxr-xr-x 1 root root      105704 фев  6  2022 install-info
+-rwxr-xr-x 1 root root          95 фев 21  2022 install-printerdriver
+-rwxr-xr-x 1 root root        4373 ноя 23 17:56 instmodsh
+-rwxr-xr-x 1 root root       72000 фев  9  2022 intel-virtual-output
+-rwxr-xr-x 1 root root       18816 мар 22 15:25 ionice
+-rwxr-xr-x 1 root root      718896 мар 24  2022 ip
+-rwxr-xr-x 1 root root       22984 мар 22 15:25 ipcmk
+-rwxr-xr-x 1 root root       18816 мар 22 15:25 ipcrm
+-rwxr-xr-x 1 root root       39296 мар 22 15:25 ipcs
+-rwxr-xr-x 1 root root       22840 мар 24  2022 ipod-read-sysinfo-extended
+-rwxr-xr-x 1 root root       14648 мар 24  2022 ipod-time-sync
+-rwxr-xr-x 1 root root       43416 фев 14  2023 ippfind
+-rwxr-xr-x 1 root root       96568 фев 14  2023 ipptool
+lrwxrwxrwx 1 root root          28 янв 17 00:14 iptables-xml -> ../sbin/xtables-legacy-multi
+-rwxr-xr-x 1 root root       14536 мар 23  2022 ischroot
+-rwxr-xr-x 1 root root       18752 апр  6  2022 isdv4-serial-debugger
+-rwxr-xr-x 1 root root       18752 апр  6  2022 isdv4-serial-inputattach
+-rwxr-xr-x 1 root root      187672 мар 24  2022 isodump
+-rwxr-xr-x 1 root root      354840 мар 24  2022 isoinfo
+-rwxr-xr-x 1 root root      191768 мар 24  2022 isovfy
+-rwxr-xr-x 1 root root        7222 дек  2  2021 ispell-wrapper
+lrwxrwxrwx 1 root root          22 мар 12 17:47 java -> /etc/alternatives/java
+lrwxrwxrwx 1 root root          23 мар 12 17:47 jexec -> /etc/alternatives/jexec
+lrwxrwxrwx 1 root root          21 мар 12 17:47 jjs -> /etc/alternatives/jjs
+-rwxr-xr-x 1 root root       47664 фев  8 06:46 join
+-rwxr-xr-x 1 root root       80272 ноя 21 23:57 journalctl
+-rwxr-xr-x 1 root root       35152 мар 24  2022 jpgicc
+-rwxr-xr-x 1 root root        4992 ноя 23 17:56 json_pp
+-rwxr-xr-x 1 root root       18664 дек 16  2022 kbdinfo
+-rwxr-xr-x 1 root root       14872 дек 16  2022 kbd_mode
+-rwxr-xr-x 1 root root       22920 мар  3  2022 kbookmarkmerger
+-rwxr-xr-x 1 root root       18656 мар 16  2022 kbuildsycoca5
+-rwxr-xr-x 1 root root       64336 июл  4  2022 kbxutil
+-rwxr-xr-x 1 root root       43464 мар 16  2022 kcookiejar5
+-rwxr-xr-x 1 root root       84272 мар 16  2022 kded5
+-rwxr-xr-x 1 root root       22752 мар 16  2022 kde-geo-uri-handler
+-rwxr-xr-x 1 root root      313808 мар  3  2022 keditbookmarks
+-rwxr-xr-x 1 root root        4902 мар 11  2022 kernel-install
+-rwxr-xr-x 1 root root       14488 мар 24  2022 kerneloops-submit
+-rwxr-xr-x 1 root root       47488 фев 28  2022 keyctl
+-rwxr-xr-x 1 root root         961 янв  2  2022 keyring
+lrwxrwxrwx 1 root root          25 мар 12 17:47 keytool -> /etc/alternatives/keytool
+-rwxr-xr-x 1 root root       18832 мар 16  2022 kglobalaccel5
+-rwxr-xr-x 1 root root       14728 мар 16  2022 kiconfinder5
+-rwxr-xr-x 1 root root       30952 окт 31 14:36 kill
+-rwxr-xr-x 1 root root       32096 мар 24  2022 killall
+-rwxr-xr-x 1 root root      170352 авг 17  2021 kmod
+-rwxr-xr-x 1 root root       18888 ноя  5  2021 kmodsign
+-rwxr-xr-x 1 root root     1190728 мар  3  2022 kolourpaint
+-rwxr-xr-x 1 root root       18656 мар 16  2022 kquitapp5
+-rwxr-xr-x 1 root root       22920 мар 16  2022 kreadconfig5
+-rwxr-xr-x 1 root root       22904 мар 16  2022 ktelnetservice5
+-rwxr-xr-x 1 root root       22904 мар 16  2022 ktrash5
+-rwxr-xr-x 1 root root      231992 мар 16  2022 kwalletd5
+-rwxr-xr-x 1 root root       47568 мар 16  2022 kwallet-query
+-rwxr-xr-x 1 root root       22920 мар 16  2022 kwriteconfig5
+-rwxr-xr-x 1 root root       14504 ноя 29 14:31 l2ping
+-rwxr-xr-x 1 root root       35320 ноя 29 14:31 l2test
+-rwxr-xr-x 1 root root        3820 авг 12  2017 laptop-detect
+-rwxr-xr-x 1 root root       35200 мар 22 15:25 last
+lrwxrwxrwx 1 root root           4 мар 22 15:25 lastb -> last
+-rwxr-xr-x 1 root root       28288 фев  6 15:54 lastlog
+-rwxr-xr-x 1 root root       22848 мар 20  2023 lavadecode
+-rwxr-xr-x 1 root root        7784 июн 16  2020 lcf
+-rwxr-xr-x 1 root root        5443 янв  2 16:22 ldd
+-rwxr-xr-x 1 root root      199048 фев 20 16:07 less
+-rwxr-xr-x 1 root root       14656 фев 20 16:07 lessecho
+lrwxrwxrwx 1 root root           8 фев 20 16:07 lessfile -> lesspipe
+-rwxr-xr-x 1 root root       24272 фев 20 16:07 lesskey
+-rwxr-xr-x 1 root root        9047 дек 28  2021 lesspipe
+-rwxr-xr-x 1 root root      102144 мар 17  2022 lexgrog
+-rwxr-xr-x 1 root root       15778 ноя 23 17:56 libnetcfg
+lrwxrwxrwx 1 root root          34 дек 11 17:19 libreoffice -> ../lib/libreoffice/program/soffice
+-rwxr-xr-x 1 root root       14760 апр  1  2022 libwacom-list-devices
+-rwxr-xr-x 1 root root       18904 апр  1  2022 libwacom-list-local-devices
+-rwxr-xr-x 1 root root        6130 апр  1  2022 libwacom-show-stylus
+-rwxr-xr-x 1 root root        9109 мар 25  2022 libwacom-update-db
+-rwxr-xr-x 1 root root       31240 фев  8 06:46 link
+-rwxr-xr-x 1 root root       27000 мар 24  2022 linkicc
+lrwxrwxrwx 1 root root           7 мар 22 15:25 linux32 -> setarch
+lrwxrwxrwx 1 root root           7 мар 22 15:25 linux64 -> setarch
+-rwxr-xr-x 1 root root        1577 июл 11  2021 linux-boot-prober
+-rwxr-xr-x 1 root root        4090 июн 25  2020 linux-check-removal
+-rwxr-xr-x 1 root root        6320 июн 25  2020 linux-update-symlinks
+-rwxr-xr-x 1 root root        2698 мая  3  2021 linux-version
+-rwxr-xr-x 1 root root       15080 мар 25  2022 listres
+-rwxr-xr-x 1 root root       59912 фев  8 06:46 ln
+-rwxr-xr-x 1 root root       23200 мар 24  2022 lnstat
+-rwxr-xr-x 1 root root      203528 дек 16  2022 loadkeys
+-rwxr-xr-x 1 root root       31048 дек 16  2022 loadunimap
+-rwxr-xr-x 1 root root          59 дек 11 17:19 localc
+-rwxr-xr-x 1 root root       58944 янв  2 16:22 locale
+-rwxr-xr-x 1 root root       14488 фев 14 17:47 locale-check
+-rwxr-xr-x 1 root root       27000 ноя 21 23:57 localectl
+-rwxr-xr-x 1 root root      334808 янв  2 16:22 localedef
+-rwxr-xr-x 1 root root          59 дек 11 17:19 lodraw
+-rwxr-xr-x 1 root root          53 дек 11 17:19 loffice
+-rwxr-xr-x 1 root root          64 дек 11 17:19 lofromtemplate
+-rwxr-xr-x 1 root root       35808 мар 22 15:25 logger
+-rwxr-xr-x 1 root root       52976 фев  6 15:54 login
+-rwxr-xr-x 1 root root       59888 ноя 21 23:57 loginctl
+-rwxr-xr-x 1 root root       31240 фев  8 06:46 logname
+-rwxr-xr-x 1 root root          62 дек 11 17:19 loimpress
+-rwxr-xr-x 1 root root          59 дек 11 17:19 lomath
+-rwxr-xr-x 1 root root       18824 мар 22 15:25 look
+-rwxr-xr-x 1 root root          58 дек 11 17:19 loweb
+-rwxr-xr-x 1 root root      117736 ноя  1  2022 lowntfs-3g
+-rwxr-xr-x 1 root root          61 дек 11 17:19 lowriter
+-rwxr-xr-x 1 root root       26936 фев 14  2023 lp
+-rwxr-xr-x 1 root root       22912 фев 14  2023 lpoptions
+-rwxr-xr-x 1 root root       22912 фев 14  2023 lpq
+-rwxr-xr-x 1 root root       18736 фев 14  2023 lpr
+-rwxr-xr-x 1 root root       14640 фев 14  2023 lprm
+-rwxr-xr-x 1 root root       59544 мар 24  2022 lp_solve
+-rwxr-xr-x 1 root root       39560 фев 14  2023 lpstat
+-rwxr-xr-x 1 root root      138216 фев  8 06:46 ls
+-rwxr-xr-x 1 root root       14656 июн  2  2022 lsattr
+-rwxr-xr-x 1 root root      125320 мар 22 15:25 lsblk
+-rwxr-xr-x 1 root root        3638 авг 26  2019 lsb_release
+-rwxr-xr-x 1 root root      100736 мар 22 15:25 lscpu
+-rwxr-xr-x 1 root root      922824 мар 24  2022 lshw
+-rwxr-xr-x 1 root root         706 июл 25  2023 lsinitramfs
+-rwxr-xr-x 1 root root       51584 мар 22 15:25 lsipc
+-rwxr-xr-x 1 root root       31440 мар 22 15:25 lslocks
+-rwxr-xr-x 1 root root       51584 мар 22 15:25 lslogins
+-rwxr-xr-x 1 root root       35200 мар 22 15:25 lsmem
+lrwxrwxrwx 1 root root           4 мар  6 10:51 lsmod -> kmod
+-rwxr-xr-x 1 root root       39304 мар 22 15:25 lsns
+-rwxr-xr-x 1 root root      167544 мар 24  2022 lsof
+-rwxr-xr-x 1 root root       94288 авг 30  2021 lspci
+-rwxr-xr-x 1 root root        1081 авг 28  2017 lspgpot
+-rwxr-xr-x 1 root root      252432 мар 25  2022 lsusb
+-rwxr-xr-x 1 root root       49600 мар 25  2022 luit
+-rwxr-xr-x 1 root root       10292 янв 28  2022 lwp-download
+-rwxr-xr-x 1 root root        2711 янв 28  2022 lwp-dump
+-rwxr-xr-x 1 root root        2413 янв 28  2022 lwp-mirror
+-rwxr-xr-x 1 root root       16202 янв 28  2022 lwp-request
+lrwxrwxrwx 1 root root          23 мар  6 10:51 lzcat -> /etc/alternatives/lzcat
+lrwxrwxrwx 1 root root          23 мар  6 10:51 lzcmp -> /etc/alternatives/lzcmp
+lrwxrwxrwx 1 root root          24 мар  6 10:51 lzdiff -> /etc/alternatives/lzdiff
+lrwxrwxrwx 1 root root          25 мар  6 10:51 lzegrep -> /etc/alternatives/lzegrep
+lrwxrwxrwx 1 root root          25 мар  6 10:51 lzfgrep -> /etc/alternatives/lzfgrep
+lrwxrwxrwx 1 root root          24 мар  6 10:51 lzgrep -> /etc/alternatives/lzgrep
+lrwxrwxrwx 1 root root          24 мар  6 10:51 lzless -> /etc/alternatives/lzless
+lrwxrwxrwx 1 root root          22 мар  6 10:51 lzma -> /etc/alternatives/lzma
+-rwxr-xr-x 1 root root       14568 апр  8  2022 lzmainfo
+lrwxrwxrwx 1 root root          24 мар  6 10:51 lzmore -> /etc/alternatives/lzmore
+-rwxr-xr-x 1 root root       29520 мар 24  2022 m2300w
+-rwxr-xr-x 1 root root       14578 мар 24  2022 m2300w-wrapper
+-rwxr-xr-x 1 root root       29520 мар 24  2022 m2400w
+-rwxr-xr-x 1 root root         958 сен 19  2022 mako-render
+-rwxr-xr-x 1 root root      120504 мар 17  2022 man
+-rwxr-xr-x 1 root root      143296 мар 17  2022 mandb
+-rwxr-xr-x 1 root root       31520 мар 17  2022 manpath
+-rwxr-xr-x 1 root root       36536 мар 17  2022 man-recode
+-rwxr-xr-x 1 root root       31048 дек 16  2022 mapscrn
+-rwxr-xr-x 1 root root         969 ноя 17  2021 markdown_py
+-rwxr-xr-x 1 root root      158504 янв 24  2022 mawk
+-rwxr-xr-x 1 root root       27080 мар 22 15:25 mcookie
+-rwxr-xr-x 1 root root       39240 янв 31  2021 mc-tool
+-rwxr-xr-x 1 root root       14776 янв 31  2021 mc-wait-for-name
+-rwxr-xr-x 1 root root       43432 фев  8 06:46 md5sum
+lrwxrwxrwx 1 root root           6 фев  8 06:46 md5sum.textutils -> md5sum
+-rwxr-xr-x 1 root root       51608 фев 12 22:29 mdig
+-rwxr-xr-x 1 root root       88376 янв  6 00:23 mdsearch
+-rwxr-xr-x 1 root root        5807 сен 29  2023 mesa-overlay-control.py
+-rwxr-xr-x 1 root root       14720 мар 22 15:25 mesg
+-rwxr-xr-x 1 root root        3060 дек 19  2021 migrate-pubring-from-classic-gpg
+-rwxr-xr-x 1 root root        9564 янв 10  2022 mimeopen
+-rwxr-xr-x 1 root root       13068 янв 10  2022 mimetype
+-rwxr-xr-x 1 root root       28112 мар 24  2022 min12xxw
+-rwxr-xr-x 1 root root      210632 июн 15  2021 minicom
+-rwxr-xr-x 1 root root       68104 фев  8 06:46 mkdir
+-rwxr-xr-x 1 root root       39432 фев  8 06:46 mkfifo
+-rwxr-xr-x 1 root root          65 мар 25  2022 mkfontdir
+-rwxr-xr-x 1 root root       43696 мар 25  2022 mkfontscale
+lrwxrwxrwx 1 root root          11 мар  6 10:51 mkisofs -> genisoimage
+-rwxr-xr-x 1 root root       16163 дек 16  2022 mk_modmap
+-rwxr-xr-x 1 root root       43528 фев  8 06:46 mknod
+-rwxr-xr-x 1 root root      260792 мар 25  2022 mksquashfs
+-rwxr-xr-x 1 root root       39432 фев  8 06:46 mktemp
+-rwxr-xr-x 1 root root       31016 мар 24  2022 mkzftree
+-rwxr-xr-x 1 root root      280416 дек 20 08:35 mmcli
+-rwxr-xr-x 1 root root       60904 авг 25  2023 mokutil
+-rwxr-xr-x 1 root root       18744 мар 18  2022 monitor-sensor
+-rwxr-xr-x 1 root root       43400 мар 22 15:25 more
+-rwsr-xr-x 1 root root       47488 мар 22 15:25 mount
+-rwxr-xr-x 1 root root       18816 мар 22 15:25 mountpoint
+-rwxr-xr-x 1 root root       71912 мар 24  2022 mousetweaks
+-rwxr-xr-x 1 root root     2507792 фев  6  2022 mpv
+-rwxr-xr-x 1 root root       14648 мар 24  2022 mscompress
+-rwxr-xr-x 1 root root       14648 мар 24  2022 msexpand
+lrwxrwxrwx 1 root root          20 мар  6 10:51 mt -> /etc/alternatives/mt
+-rwxr-xr-x 1 root root       68336 авг 22  2021 mt-gnu
+-rwxr-xr-x 1 root root       73984 янв 11  2022 mtr
+-rwxr-xr-x 1 root root       39216 янв 11  2022 mtr-packet
+-rwxr-xr-x 1 root root      137752 фев  8 06:46 mv
+-rwxr-xr-x 1 root root       14640 янв  6 00:23 mvxattr
+-rwxr-xr-x 1 root root       22912 мар 22 15:25 namei
+-rwxr-xr-x 1 root root      283144 фев 19  2022 nano
+-rwxr-xr-x 1 root root     1709488 мар 30  2023 nautilus
+-rwxr-xr-x 1 root root       18736 мар 30  2023 nautilus-autorun-software
+-rwxr-xr-x 1 root root       22760 мар 24  2022 nautilus-sendto
+lrwxrwxrwx 1 root root          22 мар  6 10:51 nawk -> /etc/alternatives/nawk
+lrwxrwxrwx 1 root root          20 мар  6 10:51 nc -> /etc/alternatives/nc
+-rwxr-xr-x 1 root root       39560 фев 23  2022 nc.openbsd
+-rwxr-xr-x 1 root root         913 мар 23  2022 neqn
+-rwxr-xr-x 1 root root     1002744 янв  6 00:23 net
+lrwxrwxrwx 1 root root          24 мар  6 10:51 netcat -> /etc/alternatives/netcat
+-rwxr-xr-x 1 root root      158304 мар 24  2022 netstat
+-rwxr-xr-x 1 root root      104832 ноя 21 23:57 networkctl
+-rwxr-xr-x 1 root root       20185 мая  4  2022 networkd-dispatcher
+-rwsr-xr-x 1 root root       40496 фев  6 15:54 newgrp
+-rwxr-xr-x 1 root root       35200 мар 25  2022 ngettext
+-rwxr-xr-x 1 root root       35336 фев  8 06:46 nice
+lrwxrwxrwx 1 root root           8 мар  6 10:51 nisdomainname -> hostname
+-rwxr-xr-x 1 root root      100936 фев  8 06:46 nl
+-rwxr-xr-x 1 root root      274432 мар  7  2022 nm-applet
+-rwxr-xr-x 1 root root      154088 янв  6 00:23 nmblookup
+-rwxr-xr-x 1 root root      949008 июн  9  2022 nmcli
+-rwxr-xr-x 1 root root      986128 мар  7  2022 nm-connection-editor
+-rwxr-xr-x 1 root root       22912 июн  9  2022 nm-online
+-rwxr-xr-x 1 root root      751976 июн  9  2022 nmtui
+lrwxrwxrwx 1 root root           5 июн  9  2022 nmtui-connect -> nmtui
+lrwxrwxrwx 1 root root           5 июн  9  2022 nmtui-edit -> nmtui
+lrwxrwxrwx 1 root root           5 июн  9  2022 nmtui-hostname -> nmtui
+-rwxr-xr-x 1 root root       35240 фев  8 06:46 nohup
+-rwxr-xr-x 1 root root       18672 апр 28  2022 notify-send
+-rwxr-xr-x 1 root root       35336 фев  8 06:46 nproc
+-rwxr-xr-x 1 root root        3293 мар 23  2022 nroff
+-rwxr-xr-x 1 root root       27240 мар 22 15:25 nsenter
+-rwxr-xr-x 1 root root      121672 фев 12 22:29 nslookup
+-rwxr-xr-x 1 root root       31104 мар 24  2022 nstat
+-rwxr-xr-x 1 root root       76344 фев 12 22:29 nsupdate
+-rwxr-xr-x 1 root root      162824 ноя  1  2022 ntfs-3g
+-rwxr-xr-x 1 root root       14720 ноя  1  2022 ntfs-3g.probe
+-rwxr-xr-x 1 root root       27008 ноя  1  2022 ntfscat
+-rwxr-xr-x 1 root root       39304 ноя  1  2022 ntfscluster
+-rwxr-xr-x 1 root root       31104 ноя  1  2022 ntfscmp
+-rwxr-xr-x 1 root root       43400 ноя  1  2022 ntfsdecrypt
+-rwxr-xr-x 1 root root       27016 ноя  1  2022 ntfsfallocate
+-rwxr-xr-x 1 root root       35208 ноя  1  2022 ntfsfix
+-rwxr-xr-x 1 root root       55688 ноя  1  2022 ntfsinfo
+-rwxr-xr-x 1 root root       28112 ноя  1  2022 ntfsls
+-rwxr-xr-x 1 root root       31112 ноя  1  2022 ntfsmove
+-rwxr-xr-x 1 root root      108928 ноя  1  2022 ntfsrecover
+-rwxr-xr-x 1 root root       80752 ноя  1  2022 ntfssecaudit
+-rwxr-xr-x 1 root root       26936 ноя  1  2022 ntfstruncate
+-rwxr-xr-x 1 root root       18736 ноя  1  2022 ntfsusermap
+-rwxr-xr-x 1 root root       43936 ноя  1  2022 ntfswipe
+-rwxr-xr-x 1 root root       55848 фев  8 06:46 numfmt
+-rwxr-xr-x 1 root root         270 сен 15  2023 nvidia-detector
+-rwxr-xr-x 1 root root       18768 мар 20  2023 oakdecode
+-rwxr-xr-x 1 root root      104696 ноя 29 14:31 obexctl
+-rwxr-xr-x 1 root root       24224 мар 25  2022 oclock
+-rwxr-xr-x 1 root root       68104 фев  8 06:46 od
+-rwxr-xr-x 1 root root        8792 апр 14  2023 oem-getlogs
+-rwxr-xr-x 1 root root       26928 янв  6 00:23 oLschema2ldif
+lrwxrwxrwx 1 root root          17 мар  6 10:51 on_ac_power -> /sbin/on_ac_power
+-rwxr-xr-x 1 root root       18808 ноя 21 23:57 oomctl
+lrwxrwxrwx 1 root root          22 мар  6 10:51 open -> /etc/alternatives/open
+-rwxr-xr-x 1 root root     1001272 фев 16 11:51 openssl
+-rwxr-xr-x 1 root root       23128 дек 16  2022 openvt
+-rwxr-xr-x 1 root root       18752 мар 20  2023 opldecode
+-rwxr-xr-x 1 root root        9272 мая 19  2022 orca
+-rwxr-xr-x 1 root root          70 мар 25  2022 orca-dm-wrapper
+-rwxr-xr-x 1 root root        4551 июл 11  2021 os-prober
+-rwxr-xr-x 1 root root       31104 мар 24  2022 p11-kit
+-rwxr-xr-x 1 root root        4754 авг 15  2020 p7zip
+-rwxr-xr-x 1 root root       51624 фев 19 06:08 pacat
+lrwxrwxrwx 1 root root          25 мар 12 17:47 pack200 -> /etc/alternatives/pack200
+-rwxr-xr-x 1 root root       18824 фев 19 06:08 pacmd
+-rwxr-xr-x 1 root root       96664 фев 19 06:08 pactl
+-rwxr-xr-x 1 root root        2233 фев 19 06:08 padsp
+lrwxrwxrwx 1 root root          23 мар  6 10:51 pager -> /etc/alternatives/pager
+-rwxr-xr-x 1 root root        2093 фев 21  2022 pa-info
+lrwxrwxrwx 1 root root           5 фев 19 06:08 pamon -> pacat
+-rwxr-xr-x 1 root root       14488 мар 24  2022 paperconf
+lrwxrwxrwx 1 root root           5 фев 19 06:08 paplay -> pacat
+lrwxrwxrwx 1 root root           5 фев 19 06:08 parec -> pacat
+lrwxrwxrwx 1 root root           5 фев 19 06:08 parecord -> pacat
+-rwxr-xr-x 1 root root       59784 мар 22 15:25 partx
+-rwsr-xr-x 1 root root       59976 фев  6 15:54 passwd
+-rwxr-xr-x 1 root root       35240 фев  8 06:46 paste
+lrwxrwxrwx 1 root root          28 мар  6 10:51 pasteurize -> /etc/alternatives/pasteurize
+-rwxr-xr-x 1 root root       22928 фев 19 06:08 pasuspender
+-rwxr-xr-x 1 root root      190992 мар 24  2022 patch
+-rwxr-xr-x 1 root root       35336 фев  8 06:46 pathchk
+-rwxr-xr-x 1 root root       14648 фев 19 06:08 pax11publish
+-rwxr-xr-x 1 root root         152 дек  8  2021 pbr
+lrwxrwxrwx 1 root root           7 авг 18  2022 pdb3 -> pdb3.10
+lrwxrwxrwx 1 root root          24 ноя 20 18:14 pdb3.10 -> ../lib/python3.10/pdb.py
+-rwxr-xr-x 1 root root       51504 янв  6 00:23 pdbedit
+-rwxr-xr-x 1 root root         698 дек 11 22:25 pdf2dsc
+-rwxr-xr-x 1 root root         909 дек 11 22:25 pdf2ps
+-rwxr-xr-x 1 root root       18824 ноя 22 08:52 pdfattach
+-rwxr-xr-x 1 root root       23032 ноя 22 08:52 pdfdetach
+-rwxr-xr-x 1 root root       23064 ноя 22 08:52 pdffonts
+-rwxr-xr-x 1 root root       39448 ноя 22 08:52 pdfimages
+-rwxr-xr-x 1 root root       59928 ноя 22 08:52 pdfinfo
+-rwxr-xr-x 1 root root       22920 ноя 22 08:52 pdfseparate
+-rwxr-xr-x 1 root root       35608 ноя 22 08:52 pdfsig
+-rwxr-xr-x 1 root root      137712 ноя 22 08:52 pdftocairo
+-rwxr-xr-x 1 root root      108968 ноя 22 08:52 pdftohtml
+-rwxr-xr-x 1 root root       35240 ноя 22 08:52 pdftoppm
+-rwxr-xr-x 1 root root       35360 ноя 22 08:52 pdftops
+-rwxr-xr-x 1 root root       43544 ноя 22 08:52 pdftotext
+-rwxr-xr-x 1 root root       31112 ноя 22 08:52 pdfunite
+-rwxr-xr-x 1 root root       14640 мар 24  2022 peekfd
+-rwxr-xr-x 2 root root     3802104 ноя 23 17:56 perl
+-rwxr-xr-x 2 root root     3802104 ноя 23 17:56 perl5.34.0
+-rwxr-xr-x 1 root root       14648 ноя 23 17:56 perl5.34-x86_64-linux-gnu
+-rwxr-xr-x 2 root root       45183 ноя 23 17:56 perlbug
+-rwxr-xr-x 1 root root         125 авг 25  2021 perldoc
+-rwxr-xr-x 1 root root       57920 фев  6  2022 perli11ndoc
+-rwxr-xr-x 1 root root       10867 ноя 23 17:56 perlivp
+-rwxr-xr-x 2 root root       45183 ноя 23 17:56 perlthanks
+-rwxr-xr-x 1 root root         498 дек 11 22:25 pf2afm
+-rwxr-xr-x 1 root root         516 дек 11 22:25 pfbtopfa
+-rwxr-xr-x 1 root root       30968 окт 31 14:36 pgrep
+-rwxr-xr-x 1 root root     4684208 мар 25  2022 photoqt
+-rwxr-xr-x 1 root root      204840 мар 23  2022 pic
+lrwxrwxrwx 1 root root          22 мар  6 10:51 pico -> /etc/alternatives/pico
+-rwxr-xr-x 1 root root       65488 мар 22  2018 picocom
+-rwxr-xr-x 1 root root        8360 ноя 23 17:56 piconv
+lrwxrwxrwx 1 root root          14 мар  6 10:51 pidof -> /sbin/killall5
+-rwxr-xr-x 1 root root       30968 окт 31 14:36 pidwait
+lrwxrwxrwx 1 root root          26 мар  6 10:51 pinentry -> /etc/alternatives/pinentry
+-rwxr-xr-x 1 root root       60056 мар 24  2022 pinentry-curses
+-rwxr-xr-x 1 root root       76448 мар 24  2022 pinentry-gnome3
+lrwxrwxrwx 1 root root          30 мар  6 10:51 pinentry-x11 -> /etc/alternatives/pinentry-x11
+-rwxr-xr-x 1 root root       76672 фев  5  2022 ping
+lrwxrwxrwx 1 root root           4 мар  6 10:51 ping4 -> ping
+lrwxrwxrwx 1 root root           4 мар  6 10:51 ping6 -> ping
+-rwxr-xr-x 1 root root       35240 фев  8 06:46 pinky
+-rwxr-xr-x 1 root root       14720 ноя  9  2022 pipewire
+-rwxr-xr-x 1 root root      408320 мар  5  2022 pipewire-media-session
+-rwxr-xr-x 1 root root       18736 фев 26  2022 pkaction
+-rwxr-xr-x 1 root root       22832 фев 26  2022 pkcheck
+-rwxr-xr-x 1 root root       59704 мар 14  2022 pkcon
+-rwsr-xr-x 1 root root       30872 фев 26  2022 pkexec
+lrwxrwxrwx 1 root root           5 окт 31 14:36 pkill -> pgrep
+-rwxr-xr-x 1 root root       22840 мар 14  2022 pkmon
+-rwxr-xr-x 1 root root       18736 фев 26  2022 pkttyagent
+-rwxr-xr-x 1 root root        4536 ноя 23 17:56 pl2pm
+-rwxr-xr-x 1 root root       22904 янв  2 16:22 pldd
+-rwxr-xr-x 1 root root         146 фев 23  2022 plog
+-rwxr-xr-x 1 root root       47408 мар 18  2022 plymouth
+-rwxr-xr-x 1 root root       35064 окт 31 14:36 pmap
+-rwxr-xr-x 1 root root     1645608 мар 24  2022 pnm2ppa
+-rwxr-xr-x 1 root root        4137 ноя 23 17:56 pod2html
+-rwxr-xr-x 1 root root       15034 ноя 23 17:56 pod2man
+-rwxr-xr-x 1 root root       10803 ноя 23 17:56 pod2text
+-rwxr-xr-x 1 root root        4107 ноя 23 17:56 pod2usage
+-rwxr-xr-x 1 root root        3658 ноя 23 17:56 podchecker
+-rwxr-xr-x 1 root root        2837 фев 23  2022 poff
+-rwxr-xr-x 1 root root        1362 фев 23  2022 pon
+lrwxrwxrwx 1 root root          11 мар  6 10:51 POST -> lwp-request
+-rwxr-xr-x 1 root root        8089 мар  5  2022 powerprofilesctl
+-rwxr-xr-x 1 root root      100840 фев 14  2023 ppdc
+-rwxr-xr-x 1 root root       76264 фев 14  2023 ppdhtml
+-rwxr-xr-x 1 root root       92648 фев 14  2023 ppdi
+-rwxr-xr-x 1 root root       18816 фев 14  2023 ppdmerge
+-rwxr-xr-x 1 root root       80360 фев 14  2023 ppdpo
+-rwxr-xr-x 1 root root         404 дек 11 22:25 pphs
+-rwxr-xr-x 1 root root       68176 фев  8 06:46 pr
+-rwxr-xr-x 1 root root        5656 мар 23  2022 precat
+-rwxr-xr-x 1 root root       55784 мар 23  2022 preconv
+-rwxr-xr-x 1 root root        1019 мар  5  2022 preparetips5
+-rwxr-xr-x 1 root root        5656 мар 23  2022 preunzip
+-rwxr-xr-x 1 root root        5656 мар 23  2022 prezip
+-rwxr-xr-x 1 root root       14640 мар 23  2022 prezip-bin
+lrwxrwxrwx 1 root root          11 мар  6 10:51 print -> run-mailcap
+-rwxr-xr-x 1 root root         395 дек 11 22:25 printafm
+-rwxr-xr-x 1 root root       31112 фев  8 06:46 printenv
+-rwxr-xr-x 1 root root        5640 мар 20  2023 printer-profile
+-rwxr-xr-x 1 root root       51648 фев  8 06:46 printf
+-rwxr-xr-x 1 root root       27536 мар 22 15:25 prlimit
+lrwxrwxrwx 1 root root          16 фев 29 17:03 pro -> ubuntu-advantage
+-rwxr-xr-x 1 root root       55600 янв  6 00:23 profiles
+-rwxr-xr-x 1 root root       43384 мар 16  2022 protocoltojson
+-rwxr-xr-x 1 root root       13658 ноя 23 17:56 prove
+-rwxr-xr-x 1 root root       22912 мар 24  2022 prtstat
+-rwxr-xr-x 1 root root      141776 окт 31 14:36 ps
+-rwxr-xr-x 1 root root         631 дек 11 22:25 ps2ascii
+-rwxr-xr-x 1 root root        1264 дек 11 22:25 ps2epsi
+-rwxr-xr-x 1 root root         272 дек 11 22:25 ps2pdf
+-rwxr-xr-x 1 root root         215 дек 11 22:25 ps2pdf12
+-rwxr-xr-x 1 root root         215 дек 11 22:25 ps2pdf13
+-rwxr-xr-x 1 root root         215 дек 11 22:25 ps2pdf14
+-rwxr-xr-x 1 root root        1078 дек 11 22:25 ps2pdfwr
+-rwxr-xr-x 1 root root         647 дек 11 22:25 ps2ps
+-rwxr-xr-x 1 root root         669 дек 11 22:25 ps2ps2
+lrwxrwxrwx 1 root root           8 дек 11 22:25 ps2txt -> ps2ascii
+lrwxrwxrwx 1 root root           9 дек 16  2022 psfaddtable -> psfxtable
+lrwxrwxrwx 1 root root           9 дек 16  2022 psfgettable -> psfxtable
+lrwxrwxrwx 1 root root           9 дек 16  2022 psfstriptable -> psfxtable
+-rwxr-xr-x 1 root root       26856 дек 16  2022 psfxtable
+-rwxr-xr-x 1 root root       14656 мар 24  2022 psicc
+-rwxr-xr-x 1 root root       14640 мар 24  2022 pslog
+-rwxr-xr-x 1 root root       36168 мар 24  2022 pstree
+lrwxrwxrwx 1 root root           6 мар  6 10:51 pstree.x11 -> pstree
+-rwxr-xr-x 1 root root        3566 ноя 23 17:56 ptar
+-rwxr-xr-x 1 root root        2645 ноя 23 17:56 ptardiff
+-rwxr-xr-x 1 root root        4395 ноя 23 17:56 ptargrep
+-rwxr-xr-x 1 root root      129592 фев  8 06:46 ptx
+-rwxr-xr-x 1 root root       96704 фев 19 06:08 pulseaudio
+-rwxr-xr-x 1 root root      141696 ноя  9  2022 pw-cat
+-rwxr-xr-x 1 root root      137600 ноя  9  2022 pw-cli
+-rwxr-xr-x 1 root root       35336 фев  8 06:46 pwd
+-rwxr-xr-x 1 root root       35200 ноя  9  2022 pw-dot
+lrwxrwxrwx 1 root root           6 ноя  9  2022 pw-dsdplay -> pw-cat
+-rwxr-xr-x 1 root root       96640 ноя  9  2022 pw-dump
+-rwxr-xr-x 1 root root       14568 окт 31 14:36 pwdx
+-rwxr-xr-x 1 root root       31104 ноя  9  2022 pw-link
+-rwxr-xr-x 1 root root       18816 ноя  9  2022 pw-loopback
+-rwxr-xr-x 1 root root       14720 ноя  9  2022 pw-metadata
+-rwxr-xr-x 1 root root       35200 ноя  9  2022 pw-mididump
+lrwxrwxrwx 1 root root           6 ноя  9  2022 pw-midiplay -> pw-cat
+lrwxrwxrwx 1 root root           6 ноя  9  2022 pw-midirecord -> pw-cat
+-rwxr-xr-x 1 root root       92592 ноя  9  2022 pw-mon
+lrwxrwxrwx 1 root root           6 ноя  9  2022 pw-play -> pw-cat
+-rwxr-xr-x 1 root root       27008 ноя  9  2022 pw-profiler
+lrwxrwxrwx 1 root root           6 ноя  9  2022 pw-record -> pw-cat
+-rwxr-xr-x 1 root root       27008 ноя  9  2022 pw-reserve
+-rwxr-xr-x 1 root root       31104 ноя  9  2022 pw-top
+-rwxr-xr-x 1 root root        1992 ноя  9  2022 pw-v4l2
+-rwxr-xr-x 1 root root        7813 авг 18  2022 py3clean
+-rwxr-xr-x 1 root root       13191 авг 18  2022 py3compile
+lrwxrwxrwx 1 root root          31 авг 18  2022 py3versions -> ../share/python3/py3versions.py
+lrwxrwxrwx 1 root root           9 авг 18  2022 pydoc3 -> pydoc3.10
+-rwxr-xr-x 1 root root          79 ноя 20 18:14 pydoc3.10
+lrwxrwxrwx 1 root root          13 авг 18  2022 pygettext3 -> pygettext3.10
+-rwxr-xr-x 1 root root       24235 июн  7  2023 pygettext3.10
+-rwxr-xr-x 1 root root         970 фев 15  2022 pygmentize
+lrwxrwxrwx 1 root root          10 авг 18  2022 python3 -> python3.10
+-rwxr-xr-x 1 root root     5904904 ноя 20 18:14 python3.10
+-rwxr-xr-x 1 root root         960 янв 25  2023 python3-futurize
+-rwxr-xr-x 1 root root         964 янв 25  2023 python3-pasteurize
+-rwxr-xr-x 1 root root      719328 мар 24  2022 pzstd
+-rwxr-xr-x 1 root root     1727040 дек  8  2021 qimgv
+-rwxr-xr-x 1 root root       23144 мар 20  2023 qpdldecode
+-rwxr-xr-x 1 root root       18736 мая 19  2022 qt-faststart
+-rwxr-xr-x 1 root root        2453 сен 15  2023 quirks-handler
+-rwxr-xr-x 3 root root       70200 мая  1  2018 rb
+lrwxrwxrwx 1 root root           4 мар 14 14:31 rbash -> bash
+lrwxrwxrwx 1 root root          21 мар  6 10:51 rcp -> /etc/alternatives/rcp
+-rwxr-xr-x 1 root root       39104 ноя 29 14:31 rctest
+-rwxr-xr-x 1 root root        9125 мар 17  2022 rdiffdir
+-rwxr-xr-x 1 root root      100880 мар 24  2022 rdma
+-rwxr-xr-x 1 root root       39336 фев  8 06:46 readlink
+-rwxr-xr-x 1 root root       39336 фев  8 06:46 realpath
+-rwxr-xr-x 1 root root          89 фев 13  2022 red
+-rwxr-xr-x 1 root root      896616 июл  6  2023 remmina
+-rwxr-xr-x 1 root root        1321 июл  6  2023 remmina-file-wrapper
+-rwxr-xr-x 1 root root         530 мар 10  2022 remmina-gnome
+-rwxr-xr-x 1 root root       61216 мар 25  2022 rendercheck
+-rwxr-xr-x 1 root root       14720 мар 22 15:25 renice
+lrwxrwxrwx 1 root root           4 мая 16  2023 reset -> tset
+-rwxr-xr-x 1 root root       26952 дек 16  2022 resizecons
+-rwxr-xr-x 1 root root       22912 мар 22 15:25 resizepart
+-rwxr-xr-x 1 root root      133656 ноя 21 23:57 resolvectl
+-rwxr-xr-x 1 root root       14720 мар 22 15:25 rev
+-rwxr-xr-x 1 root root       31320 ноя 29 14:31 rfcomm
+-rwxr-xr-x 1 root root          30 янв 29  2020 rgrep
+-rwxr-xr-x 1 root root       14632 фев 17  2022 rhythmbox
+-rwxr-xr-x 1 root root       49080 фев 17  2022 rhythmbox-client
+lrwxrwxrwx 1 root root          24 мар  6 10:51 rlogin -> /etc/alternatives/rlogin
+-rwxr-xr-x 1 root root       59912 фев  8 06:46 rm
+-rwxr-xr-x 1 root root       43432 фев  8 06:46 rmdir
+lrwxrwxrwx 1 root root          22 мар 12 17:47 rmid -> /etc/alternatives/rmid
+lrwxrwxrwx 1 root root          29 мар 12 17:47 rmiregistry -> /etc/alternatives/rmiregistry
+lrwxrwxrwx 1 root root           4 мар  6 10:51 rnano -> nano
+-rwxr-xr-x 1 root root         208 мар 24  2022 routef
+-rwxr-xr-x 1 root root        1656 мар 24  2022 routel
+-rwxr-xr-x 1 root root     1388648 янв  6 00:23 rpcclient
+-rwxr-xr-x 1 root root       12639 фев 27  2023 rrsync
+lrwxrwxrwx 1 root root          21 мар  6 10:51 rsh -> /etc/alternatives/rsh
+-rwxr-xr-x 1 root root        2610 мар 25  2022 rstart
+-rwxr-xr-x 1 root root        1469 мар 25  2022 rstartd
+-rwxr-xr-x 1 root root      518272 фев 27  2023 rsync
+-rwxr-xr-x 1 root root        5136 фев 27  2023 rsync-ssl
+-rwxr-xr-x 1 root root       36248 мар 25  2022 rtmpdump
+lrwxrwxrwx 1 root root           6 мар  6 10:51 rtstat -> lnstat
+-rwxr-xr-x 1 root root       35336 фев  8 06:46 runcon
+-rwxr-xr-x 1 root root       18491 дек 11  2021 run-mailcap
+-rwxr-xr-x 1 root root       27176 мар 23  2022 run-parts
+-rwxr-xr-x 1 root root       31096 июн 15  2021 runscript
+-rwxr-xr-x 1 root root          57 мар 23  2022 run-with-aspell
+lrwxrwxrwx 1 root root          23 мар  6 10:51 rview -> /etc/alternatives/rview
+-rwxr-xr-x 3 root root       70200 мая  1  2018 rx
+-rwxr-xr-x 1 root root       51576 фев  1  2022 rygel
+-rwxr-xr-x 3 root root       70200 мая  1  2018 rz
+-rwxr-xr-x 1 root root      117984 янв  6 00:23 samba-regedit
+-rwxr-xr-x 1 root root        1555 янв  6 00:23 samba-tool
+-rwxr-xr-x 1 root root       93184 мар 27  2022 sane-find-scanner
+-rwxr-xr-x 1 root root       10487 мар 23  2022 savelog
+-rwxr-xr-x 3 root root       78424 мая  1  2018 sb
+-rwxr-xr-x 1 root root       27176 ноя  5  2021 sbattach
+-rwxr-xr-x 1 root root       35576 ноя  5  2021 sbkeysync
+-rwxr-xr-x 1 root root       14952 ноя  5  2021 sbsiglist
+-rwxr-xr-x 1 root root       35536 ноя  5  2021 sbsign
+-rwxr-xr-x 1 root root       23280 ноя  5  2021 sbvarsign
+-rwxr-xr-x 1 root root       35440 ноя  5  2021 sbverify
+-rwxr-xr-x 1 root root       64624 мар 27  2022 scanimage
+-rwxr-xr-x 1 root root      133720 янв  2 19:54 scp
+-rwxr-xr-x 1 root root          90 фев 21  2022 scp-dbus-service
+-rwxr-xr-x 1 root root       14488 дек 16  2022 screendump
+-rwxr-xr-x 1 root root       51584 мар 22 15:25 script
+-rwxr-xr-x 1 root root       43392 мар 22 15:25 scriptlive
+-rwxr-xr-x 1 root root       35200 мар 22 15:25 scriptreplay
+-rwxr-xr-x 1 root root       47504 мар 23  2022 sdiff
+-rwxr-xr-x 1 root root      132824 ноя 29 14:31 sdptool
+-rwxr-xr-x 1 root root     1178864 фев 16  2022 seahorse
+-rwxr-xr-x 1 root root      113224 мар 25  2022 sed
+lrwxrwxrwx 1 root root          11 мар  6 10:51 see -> run-mailcap
+-rwxr-xr-x 1 root root         474 дек  2  2021 select-default-iwrap
+-rwxr-xr-x 1 root root        2450 авг 29  2021 select-editor
+-rwxr-xr-x 1 root root        1290 авг 29  2021 sensible-browser
+-rwxr-xr-x 1 root root        1269 авг 29  2021 sensible-editor
+-rwxr-xr-x 1 root root         565 авг 29  2021 sensible-pager
+-rwxr-xr-x 1 root root       47624 фев  8 06:46 seq
+-rwxr-xr-x 1 root root       22680 мар 17  2022 session-migration
+-rwxr-xr-x 1 root root       14656 мар 25  2022 sessreg
+-rwxr-xr-x 1 root root       27288 мар 22 15:25 setarch
+-rwxr-xr-x 1 root root       26936 июн  1  2022 setcifsacl
+-rwxr-xr-x 1 root root       43936 авг 29  2021 setfacl
+-rwxr-xr-x 1 root root       19040 мар 23  2022 setfattr
+-rwxr-xr-x 1 root root       51528 дек 16  2022 setfont
+-rwxr-xr-x 1 root root       14568 дек 16  2022 setkeycodes
+-rwxr-xr-x 1 root root       18648 дек 16  2022 setleds
+-rwxr-xr-x 1 root root       14568 дек 16  2022 setlogcons
+-rwxr-xr-x 1 root root       14600 дек 16  2022 setmetamode
+-rwxr-xr-x 1 root root       31112 авг 30  2021 setpci
+-rwxr-xr-x 1 root root       39304 мар 22 15:25 setpriv
+-rwxr-xr-x 1 root root       14720 мар 22 15:25 setsid
+-rwxr-xr-x 1 root root       35200 мар 22 15:25 setterm
+-rwxr-xr-x 1 root root       39233 ноя 22  2021 setupcon
+-rwxr-xr-x 1 root root       27344 мар 25  2022 setxkbmap
+-rwxr-xr-x 1 root root      146088 янв  2 19:54 sftp
+lrwxrwxrwx 1 root root           6 фев  6 15:54 sg -> newgrp
+lrwxrwxrwx 1 root root           4 мар  6 10:51 sh -> dash
+-rwxr-xr-x 1 root root       43432 фев  8 06:46 sha1sum
+-rwxr-xr-x 1 root root       51624 фев  8 06:46 sha224sum
+-rwxr-xr-x 1 root root       51624 фев  8 06:46 sha256sum
+-rwxr-xr-x 1 root root       59816 фев  8 06:46 sha384sum
+-rwxr-xr-x 1 root root       59816 фев  8 06:46 sha512sum
+-rwxr-xr-x 1 root root       39296 янв  6 00:23 sharesec
+-rwxr-xr-x 1 root root        9979 ноя 23 17:56 shasum
+-rwxr-xr-x 1 root root     5070240 апр 20  2022 shotwell
+-rwxr-xr-x 1 root root       18664 дек 16  2022 showconsolefont
+-rwxr-xr-x 1 root root       18664 дек 16  2022 showkey
+-rwxr-xr-x 1 root root       14656 мар 25  2022 showrgb
+-rwxr-xr-x 1 root root       51720 фев  8 06:46 shred
+-rwxr-xr-x 1 root root       47624 фев  8 06:46 shuf
+-rwxr-xr-x 1 root root      399728 мар 19  2022 simple-scan
+-rwxr-xr-x 1 root root       30952 окт 31 14:36 skill
+-rwxr-xr-x 1 root root       22768 окт 31 14:36 slabtop
+-rwxr-xr-x 1 root root       35336 фев  8 06:46 sleep
+lrwxrwxrwx 1 root root           3 янв  2 19:54 slogin -> ssh
+-rwxr-xr-x 1 root root       18752 мар 20  2023 slxdecode
+-rwxr-xr-x 1 root root        6455 июн  1  2022 smb2-quota
+-rwxr-xr-x 1 root root      297416 апр  2  2022 smb4k
+-rwxr-xr-x 1 root root       55688 янв  6 00:23 smbcacls
+-rwxr-xr-x 1 root root      162280 янв  6 00:23 smbclient
+-rwxr-xr-x 1 root root       68176 янв  6 00:23 smbcontrol
+-rwxr-xr-x 1 root root       35128 янв  6 00:23 smbcquotas
+-rwxr-xr-x 1 root root       31120 янв  6 00:23 smbget
+-rwxr-xr-x 1 root root       29326 июн  1  2022 smbinfo
+-rwxr-xr-x 1 root root       39224 янв  6 00:23 smbpasswd
+-rwxr-xr-x 1 root root       26936 янв  6 00:23 smbspool
+-rwxr-xr-x 1 root root       43312 янв  6 00:23 smbstatus
+-rwxr-xr-x 1 root root        4922 авг  9  2021 smbtar
+-rwxr-xr-x 1 root root       22840 янв  6 00:23 smbtree
+-rwxr-xr-x 1 root root       26944 мар 25  2022 smproxy
+-rwxr-xr-x 1 root root    16615480 мар  7 00:18 snap
+lrwxrwxrwx 1 root root          20 мар  7 00:18 snapctl -> ../lib/snapd/snapctl
+-rwxr-xr-x 1 root root       39144 мар  7 00:18 snapfuse
+lrwxrwxrwx 1 root root           5 окт 31 14:36 snice -> skill
+-rwxr-xr-x 1 root root       31208 мар 23  2022 soelim
+lrwxrwxrwx 1 root root          34 дек 11 17:19 soffice -> ../lib/libreoffice/program/soffice
+-rwxr-xr-x 1 root root        4176 окт 24 16:07 software-properties-gtk
+-rwxr-xr-x 1 root root      101176 фев  8 06:46 sort
+-rwxr-xr-x 1 root root      274552 ноя  9  2022 spa-acp-tool
+-rwxr-xr-x 1 root root       80360 ноя  9  2022 spa-inspect
+-rwxr-xr-x 1 root root       14648 ноя  9  2022 spa-json-dump
+-rwxr-xr-x 1 root root       14824 ноя  9  2022 spa-monitor
+-rwxr-xr-x 1 root root       31336 ноя  9  2022 spa-resample
+-rwxr-xr-x 1 root root        1003 мая 23  2023 spd-conf
+-rwxr-xr-x 1 root root       31888 мая 23  2023 spd-say
+-rwxr-xr-x 1 root root       14656 мая 23  2023 spdsend
+-rwxr-xr-x 1 root root       31168 янв 12  2022 speaker-test
+-rwxr-xr-x 1 root root      211360 мая 23  2023 speech-dispatcher
+-rwxr-xr-x 1 root root       88856 фев 24  2022 spice-vdagent
+-rwxr-xr-x 1 root root       19414 ноя 23 17:56 splain
+-rwxr-xr-x 1 root root       52192 фев  8 06:46 split
+-rwxr-xr-x 1 root root       14488 дек 16  2022 splitfont
+lrwxrwxrwx 1 root root          10 мар  6 10:51 sqfscat -> unsquashfs
+lrwxrwxrwx 1 root root          10 мар  6 10:51 sqfstar -> mksquashfs
+-rwxr-xr-x 1 root root      128072 мар 24  2022 ss
+-rwxr-xr-x 1 root root      846888 янв  2 19:54 ssh
+-rwxr-xr-x 1 root root      170416 янв  2 19:54 ssh-add
+-rwxr-sr-x 1 root _ssh      293304 янв  2 19:54 ssh-agent
+-rwxr-xr-x 1 root root        1455 июл  7  2021 ssh-argv0
+lrwxrwxrwx 1 root root          29 мар 19 10:44 ssh-askpass -> /etc/alternatives/ssh-askpass
+-rwxr-xr-x 1 root root       12676 фев 23  2022 ssh-copy-id
+-rwxr-xr-x 1 root root         985 фев 11  2021 ssh-import-id
+-rwxr-xr-x 1 root root         785 дек  7  2020 ssh-import-id-gh
+-rwxr-xr-x 1 root root         785 дек  7  2020 ssh-import-id-lp
+-rwxr-xr-x 1 root root      457152 янв  2 19:54 ssh-keygen
+-rwxr-xr-x 1 root root      195008 янв  2 19:54 ssh-keyscan
+-rwxr-xr-x 1 root root        2159 фев 19 06:08 start-pulseaudio-x11
+-rwxr-xr-x 1 root root        5519 мар 25  2022 startx
+-rwxr-xr-x 1 root root       80400 фев  8 06:46 stat
+lrwxrwxrwx 1 root root           7 мар  6 10:51 static-sh -> busybox
+-rwxr-xr-x 1 root root       43528 фев  8 06:46 stdbuf
+-rwxr-xr-x 1 root root       60240 окт 30  2020 stm32flash
+-rwxr-xr-x 1 root root     1972848 фев 16  2022 strace
+-rwxr-xr-x 1 root root        1821 фев 16  2021 strace-log-merge
+-rwxr-xr-x 1 root root        7941 ноя 23 17:56 streamzip
+-rwxr-xr-x 1 root root       76296 фев  8 06:46 stty
+-rwsr-xr-x 1 root root       55680 мар 22 15:25 su
+-rwxr-xr-x 1 root root          67 окт  1  2019 subl
+-rwsr-xr-x 1 root root      232416 апр  3  2023 sudo
+lrwxrwxrwx 1 root root           4 апр  3  2023 sudoedit -> sudo
+-rwxr-xr-x 1 root root       89744 апр  3  2023 sudoreplay
+-rwxr-xr-x 1 root root          91 янв 28  2021 sugar-activity3
+-rwxr-xr-x 1 root root         838 янв 28  2021 sugar-activity-web
+-rwxr-xr-x 1 root root       35240 фев  8 06:46 sum
+-rwxr-xr-x 1 root root        4649 мар 25  2022 switcherooctl
+-rwxr-xr-x 3 root root       78424 мая  1  2018 sx
+-rwxr-xr-x 1 root root       35240 фев  8 06:46 sync
+-rwxr-xr-x 1 root root          95 фев 21  2022 system-config-printer
+-rwxr-xr-x 1 root root          80 фев 21  2022 system-config-printer-applet
+-rwxr-xr-x 1 root root     1115760 ноя 21 23:57 systemctl
+lrwxrwxrwx 1 root root          20 ноя 21 23:57 systemd -> /lib/systemd/systemd
+-rwxr-xr-x 1 root root     1809160 ноя 21 23:57 systemd-analyze
+-rwxr-xr-x 1 root root       18928 ноя 21 23:57 systemd-ask-password
+-rwxr-xr-x 1 root root       18816 ноя 21 23:57 systemd-cat
+-rwxr-xr-x 1 root root       23016 ноя 21 23:57 systemd-cgls
+-rwxr-xr-x 1 root root       39312 ноя 21 23:57 systemd-cgtop
+-rwxr-xr-x 1 root root       51744 ноя 21 23:57 systemd-cryptenroll
+-rwxr-xr-x 1 root root       27000 ноя 21 23:57 systemd-delta
+-rwxr-xr-x 1 root root       18808 ноя 21 23:57 systemd-detect-virt
+-rwxr-xr-x 1 root root       22904 ноя 21 23:57 systemd-escape
+-rwxr-xr-x 1 root root      121504 ноя 21 23:57 systemd-hwdb
+-rwxr-xr-x 1 root root       27000 ноя 21 23:57 systemd-id128
+-rwxr-xr-x 1 root root       22928 ноя 21 23:57 systemd-inhibit
+-rwxr-xr-x 1 root root       18928 ноя 21 23:57 systemd-machine-id-setup
+-rwxr-xr-x 1 root root       51808 ноя 21 23:57 systemd-mount
+-rwxr-xr-x 1 root root       22912 ноя 21 23:57 systemd-notify
+-rwxr-xr-x 1 root root       18808 ноя 21 23:57 systemd-path
+-rwxr-xr-x 1 root root       64072 ноя 21 23:57 systemd-run
+-rwxr-xr-x 1 root root       27000 ноя 21 23:57 systemd-socket-activate
+-rwxr-xr-x 1 root root       22912 ноя 21 23:57 systemd-stdio-bridge
+-rwxr-xr-x 1 root root       47608 ноя 21 23:57 systemd-sysext
+-rwxr-xr-x 1 root root       64184 ноя 21 23:57 systemd-sysusers
+-rwxr-xr-x 1 root root      100936 ноя 21 23:57 systemd-tmpfiles
+-rwxr-xr-x 1 root root       35192 ноя 21 23:57 systemd-tty-ask-password-agent
+lrwxrwxrwx 1 root root          13 ноя 21 23:57 systemd-umount -> systemd-mount
+-rwxr-xr-x 3 root root       78424 мая  1  2018 sz
+-rwxr-xr-x 1 root root          53 мар 28 10:48 tabby
+-rwxr-xr-x 1 root root       18744 мая 16  2023 tabs
+-rwxr-xr-x 1 root root      100776 фев  8 06:46 tac
+-rwxr-xr-x 1 root root       68112 фев  8 06:46 tail
+-rwxr-xr-x 1 root root      517952 дек  5 08:15 tar
+-rwxr-xr-x 1 root root       22912 мар 22 15:25 taskset
+-rwxr-xr-x 1 root root      129512 мар 23  2022 tbl
+lrwxrwxrwx 1 root root           8 мар  6 10:51 tclsh -> tclsh8.6
+-rwxr-xr-x 1 root root       14488 мар 25  2022 tclsh8.6
+-rwxr-xr-x 1 root root     1331320 фев  8 16:21 tcpdump
+lrwxrwxrwx 1 root root          27 мар  7 13:21 tdbbackup -> /etc/alternatives/tdbbackup
+-rwxr-xr-x 1 root root       14648 янв 13  2022 tdbbackup.tdbtools
+-rwxr-xr-x 1 root root       14648 янв 13  2022 tdbdump
+-rwxr-xr-x 1 root root       14648 янв 13  2022 tdbrestore
+-rwxr-xr-x 1 root root       27448 янв 13  2022 tdbtool
+-rwxr-xr-x 1 root root       35336 фев  8 06:46 tee
+-rwxr-xr-x 1 root root    69208784 мар 26  2022 telegram-desktop
+lrwxrwxrwx 1 root root          24 мар  6 10:51 telnet -> /etc/alternatives/telnet
+-rwxr-xr-x 1 root root      110144 мар 24  2022 telnet.netkit
+-rwxr-xr-x 1 root root       14360 мар 23  2022 tempfile
+-rwxr-xr-x 1 root root       43456 фев  8 06:46 test
+-rwxr-xr-x 1 root root       43320 янв  6 00:23 testparm
+-rwxr-xr-x 1 root root       36496 фев  5  2021 tftp
+lrwxrwxrwx 1 root root          33 мар 20 23:28 thunderbird -> ../lib/thunderbird/thunderbird.sh
+-rwxr-xr-x 1 root root       88488 мая 16  2023 tic
+-rwxr-xr-x 1 root root       35208 мар 24  2022 tificc
+-rwxr-xr-x 1 root root       27160 мар 25  2022 time
+-rwxr-xr-x 1 root root       47480 ноя 21 23:57 timedatectl
+-rwxr-xr-x 1 root root       39880 фев  8 06:46 timeout
+-rwxr-xr-x 1 root root       18680 окт 31 14:36 tload
+-rwxr-xr-x 1 root root      183192 мар 25  2022 tnftp
+-rwxr-xr-x 1 root root       22840 мая 16  2023 toe
+-rwxr-xr-x 1 root root      133184 окт 31 14:36 top
+-rwxr-xr-x 1 root root       22912 мар 21  2022 totem
+-rwxr-xr-x 1 root root       39320 мар 21  2022 totem-video-thumbnailer
+-rwxr-xr-x 1 root root       92680 фев  8 06:46 touch
+-rwxr-xr-x 1 root root       26968 мая 16  2023 tput
+-rwxr-xr-x 1 root root       47624 фев  8 06:46 tr
+-rwxr-xr-x 1 root root       22672 фев  5  2022 tracepath
+-rwxr-xr-x 1 root root      628464 мар 21  2022 tracker3
+-rwxr-xr-x 1 root root       35144 мар 24  2022 transicc
+-rwxr-xr-x 1 root root     1005768 окт 24 08:55 transmission-gtk
+-rwxr-xr-x 1 root root       23328 мар 25  2022 transset
+-rwxr-xr-x 1 root root      735856 мар 23  2022 troff
+-rwxr-xr-x 1 root root       26936 фев  8 06:46 true
+-rwxr-xr-x 1 root root       35336 фев  8 06:46 truncate
+-rwxr-xr-x 1 root root      211328 мар 24  2022 trust
+-rwxr-xr-x 1 root root       26944 мая 16  2023 tset
+-rwxr-xr-x 1 root root       47624 фев  8 06:46 tsort
+-rwxr-xr-x 1 root root       31240 фев  8 06:46 tty
+-rwxr-xr-x 1 root root       15378 янв  2 16:22 tzselect
+lrwxrwxrwx 1 root root          16 фев 29 17:03 ua -> ubuntu-advantage
+-rwxr-xr-x 1 root root        1003 фев 29 17:03 ubuntu-advantage
+lrwxrwxrwx 1 root root          10 апр 14  2023 ubuntu-bug -> apport-bug
+lrwxrwxrwx 1 root root          25 мар  7 00:18 ubuntu-core-launcher -> ../lib/snapd/snap-confine
+-rwxr-xr-x 1 root root       23440 ноя 28 15:18 ubuntu-distro-info
+-rwxr-xr-x 1 root root       16749 сен 15  2023 ubuntu-drivers
+-rwxr-xr-x 1 root root     6443872 мар 14  2022 ubuntu-report
+-rwxr-xr-x 1 root root       22783 янв 26 17:10 ubuntu-security-status
+-rwxr-xr-x 1 root root       41883 июн 16  2020 ucf
+-rwxr-xr-x 1 root root       19367 июн 16  2020 ucfq
+-rwxr-xr-x 1 root root       10719 июн 16  2020 ucfr
+-rwxr-xr-x 1 root root       27008 мар 22 15:25 uclampset
+-rwxr-xr-x 1 root root       26776 мар 25  2022 ucs2any
+-rwxr-xr-x 1 root root     1131856 ноя 21 23:57 udevadm
+-rwxr-xr-x 1 root root       59776 апр  8  2022 udisksctl
+-rwxr-xr-x 1 root root       22920 мар 22 15:25 ul
+-rwxr-xr-x 1 root root      183688 мар 27  2022 umax_pp
+-rwsr-xr-x 1 root root       35200 мар 22 15:25 umount
+-rwxr-xr-x 1 root root       35336 фев  8 06:46 uname
+-rwxr-xr-x 1 root root       99547 янв 15  2022 unattended-upgrade
+lrwxrwxrwx 1 root root          18 мар  6 10:51 unattended-upgrades -> unattended-upgrade
+-rwxr-xr-x 2 root root        2346 сен  5  2022 uncompress
+-rwxr-xr-x 1 root root       35360 фев  8 06:46 unexpand
+-rwxr-xr-x 1 root root        2762 дек 16  2022 unicode_start
+-rwxr-xr-x 1 root root         530 дек 16  2022 unicode_stop
+-rwxr-xr-x 1 root root       43528 фев  8 06:46 uniq
+-rwxr-xr-x 1 root root       14720 мар 24  2022 unity-scope-loader
+-rwxr-xr-x 1 root root       31240 фев  8 06:46 unlink
+lrwxrwxrwx 1 root root          24 мар  6 10:51 unlzma -> /etc/alternatives/unlzma
+-rwxr-xr-x 1 root root        3774 июл 25  2023 unmkinitramfs
+-rwxr-xr-x 1 root root          52 дек 11 17:19 unopkg
+lrwxrwxrwx 1 root root          27 мар 12 17:47 unpack200 -> /etc/alternatives/unpack200
+-rwxr-xr-x 1 root root       31336 мар 22 15:25 unshare
+-rwxr-xr-x 1 root root      135064 мар 25  2022 unsquashfs
+lrwxrwxrwx 1 root root           2 мар  6 10:51 unxz -> xz
+-rwxr-xr-x 2 root root      174512 фев  1 18:52 unzip
+-rwxr-xr-x 1 root root       80304 фев  1 18:52 unzipsfx
+lrwxrwxrwx 1 root root           4 мар  6 10:51 unzstd -> zstd
+-rwxr-xr-x 1 root root       59640 фев 23 17:53 update-alternatives
+-rwxr-xr-x 1 root root       22920 мар 23  2022 update-desktop-database
+-rwxr-xr-x 1 root root        6008 июн 22  2021 update-gconf-defaults
+-rwxr-xr-x 1 root root        4771 янв 26 17:10 update-manager
+-rwxr-xr-x 1 root root       59624 янв 14  2022 update-mime-database
+-rwxr-xr-x 1 root root       84968 мар  4 13:49 update-notifier
+-rwxr-xr-x 1 root root       22832 мар  9  2022 upower
+-rwxr-xr-x 1 root root       14568 окт 31 14:36 uptime
+-rwxr-xr-x 1 root root        2936 мар  4  2022 usb-creator-gtk
+-rwxr-xr-x 1 root root        4429 мар 25  2022 usb-devices
+-rwxr-xr-x 1 root root       31112 мар 25  2022 usbhid-dump
+-rwxr-xr-x 1 root root       14656 мар 20  2023 usb_printerid
+-rwxr-xr-x 1 root root       14640 мар 25  2022 usbreset
+-rwxr-xr-x 1 root root       35336 фев  8 06:46 users
+-rwxr-xr-x 1 root root       22912 мар 22 15:25 utmpdump
+-rwxr-xr-x 1 root root       18816 мар 22 15:25 uuidgen
+-rwxr-xr-x 1 root root       22912 мар 22 15:25 uuidparse
+-rwxr-xr-x 1 root root      138216 фев  8 06:46 vdir
+lrwxrwxrwx 1 root root          20 мар  6 10:51 vi -> /etc/alternatives/vi
+lrwxrwxrwx 1 root root          22 мар  6 10:51 view -> /etc/alternatives/view
+-rwxr-xr-x 1 root root       31976 мар 25  2022 viewres
+-rwxr-xr-x 1 root root     1520320 мар 14 12:05 vim.tiny
+-rwxr-xr-x 1 root root       39160 окт 31 14:36 vmstat
+-rwxr-xr-x 1 root root       14600 мар  2  2022 vmwarectrl
+-rwxr-xr-x 1 root root       26792 июн 28  2022 vstp
+-rwxr-xr-x 1 root root       22760 окт 31 14:36 w
+-rwxr-sr-x 1 root tty        22912 мар 22 15:25 wall
+-rwxr-xr-x 1 root root       27240 окт 31 14:36 watch
+-rwxr-xr-x 1 root root       18744 июл  4  2022 watchgnupg
+-rwxr-xr-x 1 root root       43440 фев  8 06:46 wc
+-rwxr-xr-x 1 root root       31128 мар 22 15:25 wdctl
+-rwxr-xr-x 1 root root      527376 янв 24  2022 wget
+-rwxr-xr-x 1 root root       48416 мар 17  2022 whatis
+-rwxr-xr-x 1 root root       31576 мар 22 15:25 whereis
+lrwxrwxrwx 1 root root          23 мар  6 10:51 which -> /etc/alternatives/which
+-rwxr-xr-x 1 root root         946 мар 23  2022 which.debianutils
+-rwxr-xr-x 1 root root       30888 мар 17  2022 whiptail
+-rwxr-xr-x 1 root root       51736 фев  8 06:46 who
+-rwxr-xr-x 1 root root       31240 фев  8 06:46 whoami
+-rwxr-xr-x 1 root root       48024 фев 23  2022 whoopsie
+-rwxr-xr-x 1 root root       22672 фев 23  2022 whoopsie-preferences
+lrwxrwxrwx 1 root root           7 мар 25  2022 wish -> wish8.6
+-rwxr-xr-x 1 root root       14488 мар 25  2022 wish8.6
+-rwxr-xr-x 1 root root       14640 мар 23  2022 word-list-compress
+-rwxr-xr-x 1 root root       14656 июн  4  2022 wpa_passphrase
+lrwxrwxrwx 1 root root          23 мар  6 10:51 write -> /etc/alternatives/write
+-rwxr-sr-x 1 root tty        22920 мар 22 15:25 write.ul
+lrwxrwxrwx 1 root root           4 янв 29 15:43 X -> Xorg
+lrwxrwxrwx 1 root root           1 мар  6 10:51 X11 -> .
+-rwxr-xr-x 1 root root      202200 мар 25  2022 x11perf
+-rwxr-xr-x 1 root root        2807 мар 25  2022 x11perfcomp
+lrwxrwxrwx 1 root root           7 мар 22 15:25 x86_64 -> setarch
+lrwxrwxrwx 1 root root           6 мар  6 10:51 x86_64-linux-gnu-cpp -> cpp-11
+-rwxr-xr-x 1 root root      928584 мая 13  2023 x86_64-linux-gnu-cpp-11
+-rwxr-xr-x 1 root root       63912 мар 23  2022 xargs
+-rwxr-xr-x 1 root root       56280 мар 25  2022 xauth
+-rwxr-xr-x 1 root root       24736 мар 25  2022 xbiff
+-rwxr-xr-x 1 root root      203264 июн 28  2022 xbrlapi
+-rwxr-xr-x 1 root root       48624 мар 25  2022 xcalc
+-rwxr-xr-x 1 root root       23120 мар 25  2022 xclipboard
+-rwxr-xr-x 1 root root       62528 мар 25  2022 xclock
+-rwxr-xr-x 1 root root       35896 мар 25  2022 xcmsdb
+-rwxr-xr-x 1 root root       23760 мар 25  2022 xconsole
+-rwxr-xr-x 1 root root       22832 мар 25  2022 xcursorgen
+-rwxr-xr-x 1 root root       19008 мар 25  2022 xcutsel
+-rwxr-xr-x 1 root root       51344 фев 11  2022 xdg-dbus-proxy
+-rwxr-xr-x 1 root root       20642 авг 22  2022 xdg-desktop-icon
+-rwxr-xr-x 1 root root       43280 авг 22  2022 xdg-desktop-menu
+-rwxr-xr-x 1 root root       26934 авг 22  2022 xdg-email
+-rwxr-xr-x 1 root root       30032 авг 22  2022 xdg-icon-resource
+-rwxr-xr-x 1 root root       42126 авг 22  2022 xdg-mime
+-rwxr-xr-x 1 root root       26075 авг 22  2022 xdg-open
+-rwxr-xr-x 1 root root       38003 авг 22  2022 xdg-screensaver
+-rwxr-xr-x 1 root root       38417 авг 22  2022 xdg-settings
+-rwxr-xr-x 1 root root         234 мар 25  2022 xdg-user-dir
+-rwxr-xr-x 1 root root       22680 мар 25  2022 xdg-user-dirs-gtk-update
+-rwxr-xr-x 1 root root       26856 мар 25  2022 xdg-user-dirs-update
+-rwxr-xr-x 1 root root      110720 мар 25  2022 xditview
+-rwxr-xr-x 1 root root       39992 мар 25  2022 xdpyinfo
+-rwxr-xr-x 1 root root       14648 мар 25  2022 xdriinfo
+-rwxr-xr-x 1 root root      726368 мар 25  2022 xedit
+-rwxr-xr-x 1 root root     2463360 янв 29 15:43 Xephyr
+-rwxr-xr-x 1 root root       35456 мар 25  2022 xev
+-rwxr-xr-x 1 root root       24256 мар 25  2022 xeyes
+-rwxr-xr-x 1 root root       40968 мар 25  2022 xfd
+-rwxr-xr-x 1 root root       44904 мар 25  2022 xfontsel
+-rwxr-xr-x 1 root root       14656 мар 25  2022 xgamma
+-rwxr-xr-x 1 root root       72064 мар 25  2022 xgc
+-rwxr-xr-x 1 root root       18752 мар 25  2022 xhost
+-rwxr-xr-x 1 root root       22840 мар 25  2022 xinit
+-rwxr-xr-x 1 root root       64336 мар 25  2022 xinput
+-rwxr-xr-x 1 root root       14664 мар 25  2022 xkbbell
+-rwxr-xr-x 1 root root      217192 мар 25  2022 xkbcomp
+-rwxr-xr-x 1 root root       43400 мар 25  2022 xkbevd
+-rwxr-xr-x 1 root root       92512 мар 25  2022 xkbprint
+-rwxr-xr-x 1 root root       23656 мар 25  2022 xkbvleds
+-rwxr-xr-x 1 root root       23720 мар 25  2022 xkbwatch
+-rwxr-xr-x 1 root root       16982 мар 25  2022 xkeystone
+-rwxr-xr-x 1 root root       14648 мар 25  2022 xkill
+-rwxr-xr-x 1 root root       23472 мар 25  2022 xload
+-rwxr-xr-x 1 root root       23744 мар 25  2022 xlogo
+-rwxr-xr-x 1 root root       14648 мар 25  2022 xlsatoms
+-rwxr-xr-x 1 root root       18752 мар 25  2022 xlsclients
+-rwxr-xr-x 1 root root       27032 мар 25  2022 xlsfonts
+-rwxr-xr-x 1 root root       49472 мар 25  2022 xmag
+-rwxr-xr-x 1 root root       79056 мар 25  2022 xman
+-rwxr-xr-x 1 root root       23672 мар 25  2022 xmessage
+-rwxr-xr-x 1 root root        1506 июн 15  2021 xminicom
+-rwxr-xr-x 1 root root       43704 мар 25  2022 xmodmap
+-rwxr-xr-x 1 root root       14880 мар 25  2022 xmore
+-rwxr-xr-x 1 root root         274 янв 29 15:43 Xorg
+-rwxr-xr-x 1 root root       49776 мар 25  2022 xprop
+-rwxr-xr-x 1 root root       18752 мар 20  2023 xqxdecode
+-rwxr-xr-x 1 root root       63904 мар 25  2022 xrandr
+-rwxr-xr-x 1 root root       35224 мар 25  2022 xrdb
+-rwxr-xr-x 1 root root       14728 мар 25  2022 xrefresh
+lrwxrwxrwx 1 root root          35 мар  6 10:51 x-session-manager -> /etc/alternatives/x-session-manager
+-rwxr-xr-x 1 root root       35136 мар 25  2022 xset
+-rwxr-xr-x 1 root root       14656 мар 25  2022 xsetmode
+-rwxr-xr-x 1 root root       14656 мар 25  2022 xsetpointer
+-rwxr-xr-x 1 root root       18752 мар 25  2022 xsetroot
+-rwxr-xr-x 1 root root       65376 апр  6  2022 xsetwacom
+-rwxr-xr-x 1 root root      101080 мар 25  2022 xsm
+-rwxr-xr-x 1 root root       15248 мар 25  2022 xstdcmap
+-rwxr-xr-x 1 root root        5167 ноя 23 17:56 xsubpp
+lrwxrwxrwx 1 root root          37 мар  6 10:51 x-terminal-emulator -> /etc/alternatives/x-terminal-emulator
+-rwxr-xr-x 1 root root       44808 мар 25  2022 xvidtune
+-rwxr-xr-x 1 root root       18744 мар 25  2022 xvinfo
+-rwxr-xr-x 1 root root     2221016 янв 29 15:51 Xwayland
+-rwxr-xr-x 1 root root       31040 мар 25  2022 xwd
+-rwxr-xr-x 1 root root       51592 мар 25  2022 xwininfo
+-rwxr-xr-x 1 root root       35120 мар 25  2022 xwud
+lrwxrwxrwx 1 root root          31 мар 27 16:15 x-www-browser -> /etc/alternatives/x-www-browser
+-rwxr-xr-x 1 root root       18720 мар 14 12:05 xxd
+-rwxr-xr-x 1 root root      897264 ноя  4  2021 xxdiff
+-rwxr-xr-x 1 root root       84504 апр  8  2022 xz
+lrwxrwxrwx 1 root root           2 мар  6 10:51 xzcat -> xz
+lrwxrwxrwx 1 root root           6 мар  6 10:51 xzcmp -> xzdiff
+-rwxr-xr-x 1 root root        7023 апр  8  2022 xzdiff
+lrwxrwxrwx 1 root root           6 мар  6 10:51 xzegrep -> xzgrep
+lrwxrwxrwx 1 root root           6 мар  6 10:51 xzfgrep -> xzgrep
+-rwxr-xr-x 1 root root        6015 апр  8  2022 xzgrep
+-rwxr-xr-x 1 root root        1799 апр  8  2022 xzless
+-rwxr-xr-x 1 root root        2162 апр  8  2022 xzmore
+-rwxr-xr-x 1 root root       67816 мар 28  2022 yelp
+-rwxr-xr-x 1 root root       31112 фев  8 06:46 yes
+-rwxr-xr-x 1 root root         988 дек 19  2021 youtube-dl
+lrwxrwxrwx 1 root root           8 мар  6 10:51 ypdomainname -> hostname
+-rwxr-xr-x 1 root root        1984 сен  5  2022 zcat
+-rwxr-xr-x 1 root root        1678 сен  5  2022 zcmp
+-rwxr-xr-x 1 root root        5898 сен  5  2022 zdiff
+-rwxr-xr-x 1 root root       26840 янв  2 16:22 zdump
+-rwxr-xr-x 1 root root          29 сен  5  2022 zegrep
+-rwxr-xr-x 1 root root      131840 мая  1  2022 zenity
+-rwxr-xr-x 1 root root          29 сен  5  2022 zfgrep
+-rwxr-xr-x 1 root root        2081 сен  5  2022 zforce
+-rwxr-xr-x 1 root root        8103 сен  5  2022 zgrep
+-rwxr-xr-x 1 root root      203768 мар 25  2022 zip
+-rwxr-xr-x 1 root root       72088 мар 25  2022 zipcloak
+-rwxr-xr-x 1 root root       60065 ноя 23 17:56 zipdetails
+-rwxr-xr-x 1 root root        2959 фев  1 18:52 zipgrep
+-rwxr-xr-x 2 root root      174512 фев  1 18:52 zipinfo
+-rwxr-xr-x 1 root root       63896 мар 25  2022 zipnote
+-rwxr-xr-x 1 root root       59800 мар 25  2022 zipsplit
+-rwxr-xr-x 1 root root       26952 мар 20  2023 zjsdecode
+-rwxr-xr-x 1 root root        2206 сен  5  2022 zless
+-rwxr-xr-x 1 root root        1842 сен  5  2022 zmore
+-rwxr-xr-x 1 root root        4577 сен  5  2022 znew
+-rwxr-xr-x 1 root root      875096 мар 24  2022 zstd
+lrwxrwxrwx 1 root root           4 мар  6 10:51 zstdcat -> zstd
+-rwxr-xr-x 1 root root        3869 мар 24  2022 zstdgrep
+-rwxr-xr-x 1 root root          30 мар 24  2022 zstdless
+lrwxrwxrwx 1 root root           4 мар  6 10:51 zstdmt -> zstd
